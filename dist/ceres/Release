@@ -1,0 +1,15 @@
+Origin: BlissOS
+Label: BlissOS
+Suite: ceres
+Codename: ceres
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: BlissOS Debian buildiso repo
+Date: Wed, 30 Oct 2024 11:16:34 +0000
+MD5Sum:
+ d3309966137d417f7d492cdceb76eecc 785 main/binary-amd64/Packages.gz
+SHA1:
+ 12f8b72d75714440d41ea92cb89d4f312db6583d 785 main/binary-amd64/Packages.gz
+SHA256:
+ f05f9eddb3f8cd574247aff7b64f3b2a83fb429d688356f50a3a55977170c9b0 785 main/binary-amd64/Packages.gz

@@ -1,0 +1,15 @@
+Origin: BlissOS
+Label: BlissOS
+Suite: excalibur
+Codename: excalibur
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: BlissOS Debian buildiso repo
+Date: Wed, 30 Oct 2024 11:16:34 +0000
+MD5Sum:
+ 1ca0ede7eb8f87e193d99cbe0c623de7 633 main/binary-amd64/Packages.gz
+SHA1:
+ 8863be139de7e1cc06c3f3211ed8e7bc842d49e4 633 main/binary-amd64/Packages.gz
+SHA256:
+ ce107757515322d8225bfe212b7c3a21e7feea6b1498b45ae40d1717f3e6b3fd 633 main/binary-amd64/Packages.gz
