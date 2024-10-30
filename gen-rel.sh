@@ -14,14 +14,14 @@ do_hash() {
   done
 }
 
-for dir in dist/*; do
+for dir in dists/*; do
   dist=$(basename $dir)
   dpkg-scanpackages --arch amd64 pool/$dist | gzip -9 >$dir/main/binary-amd64/Packages.gz
   cd $dir
   cat <<EOF >Release
 Origin: BlissOS
 Label: BlissOS
-Suite: $dist
+Suite: $(case $dist in ceres) echo "unstable" ;; excalibur) echo "testing" ;; *) echo "stable" ;; esac)
 Codename: $dist
 Version: 1.0
 Architectures: amd64
