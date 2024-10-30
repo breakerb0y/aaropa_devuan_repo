@@ -16,7 +16,9 @@ do_hash() {
 
 for dir in dists/*; do
   dist=$(basename $dir)
-  dpkg-scanpackages --arch amd64 pool/$dist | gzip -9 >$dir/main/binary-amd64/Packages.gz
+  pkgfile=$dir/main/binary-amd64/Packages
+  dpkg-scanpackages --arch amd64 pool/$dist >$pkgfile
+  cat $pkgfile | gzip -9 >$pkgfile.gz
   cd $dir
   cat <<EOF >Release
 Origin: BlissOS
@@ -26,10 +28,7 @@ Codename: $dist
 Version: 1.0
 Architectures: amd64
 Components: main
-Description: BlissOS Debian buildiso repo
 Date: $(date -Ru)
-$(do_hash "MD5Sum" "md5sum")
-$(do_hash "SHA1" "sha1sum")
 $(do_hash "SHA256" "sha256sum")
 EOF
   cd ../..
