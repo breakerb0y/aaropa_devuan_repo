@@ -2,17 +2,26 @@ Package: calamares
 Version: 3.10.1-1
 Architecture: amd64
 Maintainer: Shadichy <shadichy.dev@gmail.com>
-Installed-Size: 10901
-Depends: kio, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libkf5auth5 (>= 4.96.0), libkf5authcore5 (>= 5.61.0), libkf5codecs5 (>= 4.96.0), libkf5completion5 (>= 4.97.0), libkf5configcore5 (>= 4.97.0), libkf5configgui5 (>= 4.97.0), libkf5configwidgets5 (>= 4.96.0), libkf5coreaddons5 (>= 5.96.0), libkf5crash5 (>= 5.15.0), libkf5i18n5 (>= 4.97.0), libkf5jobwidgets5 (>= 4.96.0), libkf5kiocore5 (>= 5.69.0), libkf5kiogui5 (>= 5.69.0), libkf5kiowidgets5 (>= 5.69.0), libkf5parts5 (>= 4.96.0), libkf5service-bin, libkf5service5 (>= 4.96.0), libkf5solid5 (>= 4.97.0), libkf5sonnetui5 (>= 4.96.0), libkf5textwidgets5 (>= 4.96.0), libkf5widgetsaddons5 (>= 4.96.0), libkf5windowsystem5 (>= 4.96.0), libkf5xmlgui5 (>= 4.96.0), libkpmcore12 (>= 22.04.3), libparted2t64 (>= 3.1), libpython3.12t64 (>= 3.12.1), libqt5concurrent5t64 (>= 5.0.2), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.0.2), libqt5qml5 (>= 5.10.0), libqt5qmlmodels5 (>= 5.14.1), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libqt5xml5t64 (>= 5.0.2), libstdc++6 (>= 13.1), libx11-6, libyaml-cpp0.8 (>= 0.7.0)
+Installed-Size: 10904
+Depends: os-prober, rsync, kio, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libkf5auth5 (>= 4.96.0), libkf5authcore5 (>= 5.61.0), libkf5codecs5 (>= 4.96.0), libkf5completion5 (>= 4.97.0), libkf5configcore5 (>= 4.97.0), libkf5configgui5 (>= 4.97.0), libkf5configwidgets5 (>= 4.96.0), libkf5coreaddons5 (>= 5.96.0), libkf5crash5 (>= 5.15.0), libkf5i18n5 (>= 4.97.0), libkf5jobwidgets5 (>= 4.96.0), libkf5kiocore5 (>= 5.69.0), libkf5kiogui5 (>= 5.69.0), libkf5kiowidgets5 (>= 5.69.0), libkf5parts5 (>= 4.96.0), libkf5service-bin, libkf5service5 (>= 4.96.0), libkf5solid5 (>= 4.97.0), libkf5sonnetui5 (>= 4.96.0), libkf5textwidgets5 (>= 4.96.0), libkf5widgetsaddons5 (>= 4.96.0), libkf5windowsystem5 (>= 4.96.0), libkf5xmlgui5 (>= 4.96.0), libkpmcore12 (>= 22.04.3), libparted2t64 (>= 3.1), libpython3.12t64 (>= 3.12.1), libqt5concurrent5t64 (>= 5.0.2), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.0.2), libqt5qml5 (>= 5.10.0), libqt5qmlmodels5 (>= 5.14.1), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libqt5xml5t64 (>= 5.0.2), libstdc++6 (>= 13.1), libx11-6, libyaml-cpp0.8 (>= 0.7.0)
 Filename: pool/ceres/calamares_3.10.1-1_amd64.deb
-Size: 6778056
-MD5sum: 4e36f27f83c13bf29fe9cb34ec6bb500
-SHA1: bbca619571ce74e5e6f2b49c841db64667893517
-SHA256: 1fd294c1ae91dd7df01eb4d8147ebb3bdd0142fb976ff99cf3b26418e72459ce
+Size: 6779612
+MD5sum: fc956a20278bfdaba9f50f3480839bb0
+SHA1: b56edf6dd90d736cf1e32d5858de73e251bfe963
+SHA256: dbb6299bfa041c727ea267c0e4178bc9132004baf1a25f412ef5d5e5c48aed7d
 Section: unknown
 Priority: optional
 Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Description: <insert up to 60 chars description>
-  <Insert long description, indented with spaces.>
+Homepage: https://github.com/yuunix-team/blissos-calamares
+Description: distribution-independent installer framework
+  Calamares is a distribution-independent installer framework.
+  .
+  It provides a graphical installer that can be used with nearly
+  any distribution. This package is suitable for live media on
+  Debian-based systems, and won't be of any particular use on
+  an already installed system.
+  .
+  You will likely want to provide your own config files to match
+  your distribution, reading the Calamares documentation will guide
+  you through that process.
 

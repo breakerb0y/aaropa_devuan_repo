@@ -2,17 +2,26 @@ Package: calamares
 Version: 3.10.1-1
 Architecture: amd64
 Maintainer: Shadichy <shadichy.dev@gmail.com>
-Installed-Size: 11418
-Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libkf5coreaddons5 (>= 5.96.0), libkf5crash5 (>= 5.15.0), libkf5parts5 (>= 4.96.0), libkpmcore12 (>= 22.04.3), libparted2t64 (>= 3.1), libpython3.12t64 (>= 3.12.1), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.0.2), libqt5qml5 (>= 5.10.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libqt5xml5t64 (>= 5.0.2), libstdc++6 (>= 14), libyaml-cpp0.8 (>= 0.7.0)
+Installed-Size: 11421
+Depends: os-prober, rsync, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libkf5coreaddons5 (>= 5.96.0), libkf5crash5 (>= 5.15.0), libkf5parts5 (>= 4.96.0), libkpmcore12 (>= 22.04.3), libparted2t64 (>= 3.1), libpython3.12t64 (>= 3.12.1), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.0.2), libqt5qml5 (>= 5.10.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libqt5xml5t64 (>= 5.0.2), libstdc++6 (>= 14), libyaml-cpp0.8 (>= 0.7.0)
 Filename: pool/excalibur/calamares_3.10.1-1_amd64.deb
-Size: 6978300
-MD5sum: dbb3fa9740d6932dde6769bc2302291b
-SHA1: c4cfea5d52a83dc6a845cfadcbc59b7070c386e9
-SHA256: 533996bab179a47a0c3dd7d5b1f9ebd99687d33ccb4eee7242e4f7278ae60073
+Size: 6978160
+MD5sum: 379013a5df38cdcddfa1df27089e2f3e
+SHA1: 5860eb2e00b5fa54b9bfeaef9e4654bfa9113817
+SHA256: d3dc95090e6b40ccc43fe8220997957b44035b526c93b29f3749f32455d10389
 Section: unknown
 Priority: optional
 Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Description: <insert up to 60 chars description>
-  <Insert long description, indented with spaces.>
+Homepage: https://github.com/yuunix-team/blissos-calamares
+Description: distribution-independent installer framework
+  Calamares is a distribution-independent installer framework.
+  .
+  It provides a graphical installer that can be used with nearly
+  any distribution. This package is suitable for live media on
+  Debian-based systems, and won't be of any particular use on
+  an already installed system.
+  .
+  You will likely want to provide your own config files to match
+  your distribution, reading the Calamares documentation will guide
+  you through that process.
 
