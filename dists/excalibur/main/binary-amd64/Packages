@@ -2,13 +2,13 @@ Package: calamares
 Version: 3.3.10-1
 Architecture: amd64
 Maintainer: Shadichy <shadichy.dev@gmail.com>
-Installed-Size: 11595
+Installed-Size: 11604
 Depends: os-prober, rsync, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libkf5coreaddons5 (>= 5.96.0), libkf5crash5 (>= 5.15.0), libkf5parts5 (>= 4.96.0), libkpmcore12 (>= 22.04.3), libparted2t64 (>= 3.1), libpython3.12t64 (>= 3.12.1), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.0.2), libqt5qml5 (>= 5.10.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libqt5xml5t64 (>= 5.0.2), libstdc++6 (>= 14), libyaml-cpp0.8 (>= 0.7.0)
 Filename: pool/excalibur/calamares_3.3.10-1_amd64.deb
-Size: 7020176
-MD5sum: 8feecdf7066893e496ebaf4f11c51ea5
-SHA1: bf6de394ed8944d7412978432f90f5beeb9f705d
-SHA256: 2cf2ba4c2732dceca525270ecb36d7e949df7edb62e388185d6883641a748eff
+Size: 7021612
+MD5sum: 8885d8cd5f3fb30bdfcc64a16651278d
+SHA1: 53189e33a1b2d858b2cfab0e81754b004a72e2b3
+SHA256: dbd881fa7723e911608818a05d1dc0b9c69bd37a1db39fae0f9ae287597f9fc5
 Section: unknown
 Priority: optional
 Multi-Arch: foreign

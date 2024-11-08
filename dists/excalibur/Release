@@ -5,7 +5,7 @@ Codename: excalibur
 Version: 1.0
 Architectures: amd64
 Components: main
-Date: Fri, 08 Nov 2024 05:36:45 +0000
+Date: Fri, 08 Nov 2024 06:53:32 +0000
 SHA256:
- a45c5b432378e9e576f2c36bb68349ca2ece23a28e0b94be74fbc13999fb23fe 849 main/binary-amd64/Packages.gz
- 5b36e572f0f809bdf673ac5cbd69328a9714c682d07a3c58f8163f067ad716eb 1595 main/binary-amd64/Packages
+ 63a21f4296489c9dc457ee7593d183c65e153f7c2ec63d9d1786dc4687268630 851 main/binary-amd64/Packages.gz
+ 56dc4db9817453e2143246da3eef6d6217fe1438c90df8d7d6f46571e87d13b0 1595 main/binary-amd64/Packages
