@@ -2,13 +2,13 @@ Package: calamares
 Version: 3.3.10-1
 Architecture: amd64
 Maintainer: Shadichy <shadichy.dev@gmail.com>
-Installed-Size: 11604
+Installed-Size: 11605
 Depends: os-prober, rsync, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libkf5coreaddons5 (>= 5.96.0), libkf5crash5 (>= 5.15.0), libkf5parts5 (>= 4.96.0), libkpmcore12 (>= 22.04.3), libparted2t64 (>= 3.1), libpython3.12t64 (>= 3.12.7), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.0.2), libqt5qml5 (>= 5.10.0), libqt5quick5 (>= 5.0.2) | libqt5quick5-gles (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.15.1), libqt5xml5t64 (>= 5.0.2), libstdc++6 (>= 14), libyaml-cpp0.8 (>= 0.7.0)
 Filename: pool/ceres/calamares_3.3.10-1_amd64.deb
-Size: 7021476
-MD5sum: e2c081ed194d30e37bb0c109551c67e3
-SHA1: ff8d98147c7024a8077f9cbc23d244a3e777e782
-SHA256: 50b3f1eeae9b1b7d7eb95e197929485642ed0967c7f10a071c563001dc7b293c
+Size: 7023020
+MD5sum: c8ca62df2da5ca3f96f1995d404f0508
+SHA1: 2d76ea6d0ecb6414046e4dcb4dc61406a6bf33db
+SHA256: 087c962c56146707797d9d99e81b7e72eddbbed935f2323027a9c0a2d18791cf
 Section: unknown
 Priority: optional
 Multi-Arch: foreign
