@@ -16,20 +16,30 @@ do_hash() {
 
 for dir in dists/*; do
   dist=$(basename $dir)
-  pkgfile=$dir/main/binary-amd64/Packages
-  dpkg-scanpackages --arch amd64 pool/$dist >$pkgfile
-  cat $pkgfile | gzip -9 >$pkgfile.gz
-  cd $dir
-  cat <<EOF >Release
+  case $dist in
+  ceres) suite=unstable ;;
+  excalibur) suite=testing ;;
+  *) suite=stable ;;
+  esac
+  
+  for archdir in $dir/main/binary-*; do
+    pkgfile=$archdir/Packages
+    arch=${archdir##*-}
+    dpkg-scanpackages --multiversion --arch $arch pool/$dist >$pkgfile
+    cat $pkgfile | gzip -9 >$pkgfile.gz
+    cd $dir
+    cat <<EOF >Release
 Origin: BlissOS
 Label: BlissOS
-Suite: $(case $dist in ceres) echo "unstable" ;; excalibur) echo "testing" ;; *) echo "stable" ;; esac)
+Suite: $suite
 Codename: $dist
 Version: 1.0
-Architectures: amd64
+Architectures: $arch
 Components: main
 Date: $(date -Ru)
 $(do_hash "SHA256" "sha256sum")
 EOF
-  cd ../..
+    cd ..
+  done
+  cd ..
 done
