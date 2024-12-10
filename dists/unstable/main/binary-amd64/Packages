@@ -68,17 +68,17 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13496
+Installed-Size: 13406
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-color-1080p_1.1.0-1_amd64.deb
-Size: 3084256
-SHA512: 0e146fa85d76ded50af3f4d6f785a1c172114849593cb9309f967d35e523305160185de58d081d08ee9db1afe8e5e6b238318b99669b3c8b7d591598ae7a39df
-SHA256: 47501d80673573ec21e645946cdd7b8642870afa447d89eaa9b7f2bb7d9b4dd8
-SHA1: 301e320a4177d92c45fe5689c8b2573c2f5e8058
-MD5sum: 61969c372df8ec91139b2949e9b17bfa
+Size: 3086572
+SHA512: b2e62307b2f1afbcab431063db1b4643bf595d5973ddf01703171ebe230367afd711d789a024cecf7dffdb8b98c5c3db00f1a3ee997e8b20156047ac7f109d49
+SHA256: 547aa67657513567fdfe55771b7b56cbf651f14a180bdd85d003eaaff9a78622
+SHA1: 43c17ea8d24b824528c024d2437c7fce58ecb421
+MD5sum: 25e5c176c5bbd0fc108117ae58bde9dd
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, stylish variant, color icon pack, 1080p resolution
 
@@ -87,17 +87,17 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13502
+Installed-Size: 13412
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-color-2k_1.1.0-1_amd64.deb
-Size: 3108836
-SHA512: 407345198b88ceaf71500337f4becb296c577b412c8b683a32f4fcb08359564b66fc6fc1b271da709f987fec830e5d14c6a6922ed78449d37e9c81eb2ce96e03
-SHA256: ef2b9bd9644f34458e5b5be13030ec8077073a441479173ba29208f4c4dee0b3
-SHA1: 3a6039e2a3509282d78f6ff7946cabce41d1f5f9
-MD5sum: 0c98be6b924acca98eb1585ffa66edf1
+Size: 3111060
+SHA512: e09e230da3e65535702491aa7ea6f5bff2076bc762a9f41519575c1087eca434b2e1e4d0cbe38a98dedd4562a4bb8b616a6a4262594a18f56f0454951f932fe4
+SHA256: b09dc024572683651c36da5d125c84a4a966a19f564f0d1efd693d85eb70e9a6
+SHA1: e13c0b9a539d1c94536c9e0a9942251d5eab3b23
+MD5sum: 039b5fa3fcb48e7433a1bfbbacccd662
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, stylish variant, color icon pack, 2k resolution
 
@@ -106,17 +106,17 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13746
+Installed-Size: 13656
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-color-4k_1.1.0-1_amd64.deb
-Size: 3248284
-SHA512: f4e8c5148b173b43c3dfd2da841e60fa762f4149b3376ee3f085bf39307922678daff82a343f9cfdbaea5f4e56ca333c4059ff756f1a9ad1412af29cac4a24d0
-SHA256: 7cf764bf9caff935ec72a6f7dd252db0c579b5ea4eeb0c76a3453403059464ef
-SHA1: 04839962e8235f78d0092957bc46b9d67626584c
-MD5sum: 3499baa9ad219b4bc401c8c2732cda7a
+Size: 3245552
+SHA512: 1d6c9229f260adc300055c54a03665b5ea48cff3ff97ab34c6d8da02a5c4233c11c570d47aa07e5253982abb1c7bb3d165676d81a239edd1cfb5949441f67a5e
+SHA256: 4032c5bae6e0f1e3aec95de4f84620a77951b51e04dbcd9f12d631265cf01fe6
+SHA1: 16d4ffdb51e4fe0a135ba4d8e2c894a909c5a4e1
+MD5sum: 7be0135d1fe9cf17a309c25f68acd076
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, stylish variant, color icon pack, 4k resolution
 
@@ -125,952 +125,21 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13524
+Installed-Size: 13434
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-color-ultrawide_1.1.0-1_amd64.deb
-Size: 3102332
-SHA512: 908d31cb61aee3969b5f0e8e2ce4db37464ad5c422c46ca9336cfa23bd46902675cb05fcd8560176ffdbd6381e24ed13514c5227b41338552862b024c857067f
-SHA256: 20a1238d2cc33b0a6b0e64b475b5275b9f35cf2ef7a7dd50e21431e64ff0ff2a
-SHA1: 9be5afe949356753514d59cb37e3c0bbf1497123
-MD5sum: a0fa0623e13194626c2304f472ad1ad1
+Size: 3099224
+SHA512: 35f04568ad3390cb8850ef2ddedbaed8e02f23bd512506308537d3aba3d1ec83765ca99ed06d87dc4d51dd8c7468da37073bed81b64bb3158d62b1d3e522964c
+SHA256: 0eb3b074be964dd414f6305e87f10e168cbdfa1d86f3999d7e02c89d0d76cc4f
+SHA1: 5937f9087ff2db83f18a4a795aa6f4f7eda115c4
+MD5sum: 53bf963f8075a837c584aad391b86f0a
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, stylish variant, color icon pack, ultrawide resolution
 
 Package: grub-theme-blissos-stylish-color-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13615
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-color-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3173984
-SHA512: 64b6414f49c38ad73b10e633e77103b6b29b72956a7826567ab93f8b99eb0ad7316fa97f70967ad6698103f57532ea8aab3bf8ec7a9bb3516d504c93c6f09fb3
-SHA256: 93074d92bc36a659f701e2d4e17513396f89e7c54077d3469fea529279ad67f4
-SHA1: 9ec58b7c4451341e721f2bdfcabe8d05305c3f38
-MD5sum: 5f9a787418d32ae0aed293bfe59b1fdc
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, color icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-stylish-white-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13522
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-1080p_1.1.0-1_amd64.deb
-Size: 3123800
-SHA512: 96d0a1ff4410c40fbfc0967c156d5cbe6ac1c290c43bccdfb54aefb6f0297f30a6b565502d5fece9fba427475f6e9d251a5978b0e8a7d35838b12b4d94eee545
-SHA256: 8346e52d5390927a3728771e4d45fd81286c1310e739e8593ecac3c4ae2304ea
-SHA1: 4836e412b817bc9b94454e8baa8d6078f1f5e2bd
-MD5sum: aa0e07d1ae28769732a738e8b41efc4f
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, white icon pack, 1080p resolution
-
-Package: grub-theme-blissos-stylish-white-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13571
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-2k_1.1.0-1_amd64.deb
-Size: 3165540
-SHA512: 6e444549af4ebfd9b8bc0ba6e54e33f0d6386bc8a8aea88b879791b58c07e3fb8e5617b8a0bb2640dda3e3e9adcbde7a54420ffb3162835317d6773f7090954c
-SHA256: ac2e0597464cc22bf06e58f4c5468b5223f3080c55414491703ac846ed7bb62d
-SHA1: 237d4882c4c186f0be014e1131f8c8f3a91121a0
-MD5sum: d63ff7144fb0cfda3a4375ca72a0b973
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, white icon pack, 2k resolution
-
-Package: grub-theme-blissos-stylish-white-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13832
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-4k_1.1.0-1_amd64.deb
-Size: 3323328
-SHA512: d2c21771b7b8c54167699e4a1702a77abff065bd05b50c069c2eda4a8c6e30f67332175af68f2adb9482b006a5ae1628d000f1400c5422abe258f2c59e5b9efb
-SHA256: 328768134307a6647017fe4f68d74e839b87c7150718064474fe0d2aeadcb93c
-SHA1: 331d4d4bd01a61ec1ecf37ed18589f64f7b0f5f2
-MD5sum: 695cb8ec177104324ca727175f7b73cc
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, white icon pack, 4k resolution
-
-Package: grub-theme-blissos-stylish-white-ultrawide
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13550
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-ultrawide_1.1.0-1_amd64.deb
-Size: 3141688
-SHA512: 988c2ad580f57f51d65a49f142aa228855ab4faeedc0ec4f50bf541cac6a039e8433b579306d0e6ba04bd5a9b40548b580a9e85736f514323f531275f770f444
-SHA256: 745bbdce6d1f20c5b01c7523e8f46f4d47975f9e198e4c458b8b4babd9684cfb
-SHA1: fc5168b330afa8f3b78d1f88ea3af5ad63d1c20d
-MD5sum: 3b84c402fc3ef07c1e80b94873ec446d
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, white icon pack, ultrawide resolution
-
-Package: grub-theme-blissos-stylish-white-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13684
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3230160
-SHA512: abfc5dcd406b4bc2acff7521daceb2b22d4dbf98302a03d872dcf0f4e542f5a09fa25a4035362243c2d23b34ecbf8d49f84428496d1d3e1f9cd00f6c63843b32
-SHA256: d2d4490f25f94b43181554de672e9cc68d5623e22d6b466cb7fd8d20410fbf9c
-SHA1: be4af9132f68c32de9ba32843d8518644bfcdb8c
-MD5sum: fa6e3fc452fb312d56faec1bdbda23c4
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, white icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-stylish-whitesur-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13524
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-1080p_1.1.0-1_amd64.deb
-Size: 3112776
-SHA512: a5aaafcc39300477bccf86c24f2d6b421aaa9a6d965e0204e7d991d89aa058fbc1e89532ce7841c19c7fcd3837097f80e5cbd1dc6d95cdca3742ecb126d6d290
-SHA256: 50d8a544d25a41a82a578b96b03f5a63c6a8cf14dcf01ef53ab1c4dbe67d315c
-SHA1: 0832cf01f3caf39c5d15b420ec36ff212878ddf3
-MD5sum: 8490e295be5ea49e196e5da7f76d83f1
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, 1080p resolution
-
-Package: grub-theme-blissos-stylish-whitesur-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13555
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-2k_1.1.0-1_amd64.deb
-Size: 3153256
-SHA512: c4be1c44cb2808e8376fc4214e7a814960f2e10eeeab09af8a1e6ea167619b3d1c9fb453498bbd96434dda6cb153cb4cdadd53afb0f2b9dfa0a93b6e3384718d
-SHA256: 10b1fab4fa304999b0af6ace341247c4485c4c351a1553bb1bf3bbc2ed4caeaa
-SHA1: 2ba4b8f8d062828e9319db8da195bbbe9c1c5a13
-MD5sum: c1e9258867aa2b234f5305c985688852
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, 2k resolution
-
-Package: grub-theme-blissos-stylish-whitesur-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13821
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-4k_1.1.0-1_amd64.deb
-Size: 3307188
-SHA512: 622210251bfe384b104aa46b373d6b954cebdf271eb7dff1ae6fba6631ba40c240c022b172d0603300c779a8dfeb12f80cff761876c976c47bf007f37826a000
-SHA256: 87fc4a21a0063ed94fd348ab276857643eccbc41b0cc2a67333ae171305a08e4
-SHA1: efd0ed3fbd2686d005f0d49e1f4caab18fb7282a
-MD5sum: a4cc610664360985e47a3fafcdba3271
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, 4k resolution
-
-Package: grub-theme-blissos-stylish-whitesur-ultrawide
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13552
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-ultrawide_1.1.0-1_amd64.deb
-Size: 3133248
-SHA512: 61737842e24f351fd1b623410170669ff76a1a5c105585fb35aa34a4cc76b0071d775413476bcd1db01adb01461dcc4154ae0f2764c5d6463b39341e6418b5f9
-SHA256: 685827383c1070ce38f15b515b71ad93315d88362ec0ff22561e1f482bf5f0c6
-SHA1: 85ef65f56a27d25127c4a0be855178db414b3538
-MD5sum: 59d285e2f22d5496250900392e05eeda
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, ultrawide resolution
-
-Package: grub-theme-blissos-stylish-whitesur-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13668
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3217860
-SHA512: 3c1daa48e54e896d8b5df0c84894d764246a5192c7b89c36466431e9be063b3df33e9c5231bc3551e83183185036b30f2670bd370cb27246fcc6eb192b462e8e
-SHA256: 27a8f63ec40acc2d2f2f2930b8ee3535bc5f308cb1e6c6416643b5cf96aee7ed
-SHA1: 9fd7570df9f0b66fd0f10df251602e848aecdbea
-MD5sum: 6e914b03cfdaa7c66db263b220edc243
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-tela-color-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13442
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-1080p_1.1.0-1_amd64.deb
-Size: 2996492
-SHA512: 49bd2eda2f20077fa17b5c1ca7e19a8050e47d53ac0558d38e8d5a01c4c5d29a451b4b7568541babf107e69b2f97c124da93052fe87ef8f6390b488352f273c2
-SHA256: c011e2aa20d582c9f951fa210221d0edcc5f0c0afed6a3cf3e27d0ab77cae568
-SHA1: 56ecb4bd9b69403fbe9a4722e18d0c4ae37b7e68
-MD5sum: 8d7abd42eee976a53068c75628dbbd74
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, color icon pack, 1080p resolution
-
-Package: grub-theme-blissos-tela-color-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13452
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-2k_1.1.0-1_amd64.deb
-Size: 3021920
-SHA512: ba4bcfeac0fb4da63f9543fc96598f110ad226e8cfb6db426a706a5dd76fd5d4d3ba61650b6b2c051219c608f14386fb93fa343e1ed3dcb6a15cf83f045ef994
-SHA256: a47e6a0fbef3978e42bff00a5875e0e17f2afecab258797ab47e06083eaa1e48
-SHA1: 51033473a183c6a0095bc8b3ca8317d08fcc7274
-MD5sum: ee9d7b1d26a52db40fe3f0eec354ac39
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, color icon pack, 2k resolution
-
-Package: grub-theme-blissos-tela-color-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13607
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-4k_1.1.0-1_amd64.deb
-Size: 3032060
-SHA512: 444ad87369e8a6317083a1b9f634835eec66806e92377cb7357babeb4f6085578faa9992785e4850d28bc59aceee437443266fac20b6b9100608d0fe8862cb8e
-SHA256: 448a9a391e9df47ffebf990bb70324870f44c3ad46412326e6791dddcbb1f114
-SHA1: c3a70d700ea2533b0ea5ae45e1c3924af170d264
-MD5sum: a12b81f51022e05bcea560c8d091d842
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, color icon pack, 4k resolution
-
-Package: grub-theme-blissos-tela-color-ultrawide
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13450
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-ultrawide_1.1.0-1_amd64.deb
-Size: 2999376
-SHA512: b6099985326e6d6b505fa92deb019d5b8d59cdca89a89e12f5750d2ceb4c9152e00fbe2aeb116dada6bb4a4c3118e27c5174995db319c05f77fb2fad6bd5aa48
-SHA256: f42256cd9f4b1ddfb2337fad6fd7ae28b4f7d4ce4d3fb49809a089a06193fedc
-SHA1: 09b6cd07eccf83f3c3f97519abdbfffcbd0fdcbf
-MD5sum: f611481bc35873beb6abc83daa763f4e
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, color icon pack, ultrawide resolution
-
-Package: grub-theme-blissos-tela-color-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13518
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3035292
-SHA512: 805fa91bc04c80f1404b883263318e9002a2429f376767f4a62ff81b983ed92b15693798bde28c466c3c1195c29a733433fac47bfd8e7b2a96b4183ec724f703
-SHA256: f2b51afd4000d7e5b9348f10ac304627d9c2e56f7aaa101a4509dba49fbdb9b2
-SHA1: 1b7a8401d2c3aaea9c85ebd10e83c52bcd0aba7c
-MD5sum: cc5d0dbb4dcb72d00c1de72cad7a792f
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, color icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-tela-white-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13468
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-1080p_1.1.0-1_amd64.deb
-Size: 3034176
-SHA512: aba3981dacc81d393562e90fcb19e95d67e56e0d76517c45e0d90805de2b73c200b5d72c77dacafed4b5fa44faf8bd5f06ea1947c4fb672d24e8e621fede9ff2
-SHA256: b8295712e782937e52cb5c99531024a032e958ab3c59e08087bdbd90256935a7
-SHA1: 1e309c5f3be3f2828df85a11d722f60c4b67e027
-MD5sum: 7157e8bdce75612aca4ce31273260fc2
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, white icon pack, 1080p resolution
-
-Package: grub-theme-blissos-tela-white-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13521
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-2k_1.1.0-1_amd64.deb
-Size: 3076552
-SHA512: 3c406fdc391a23e51bec5c6a4f9d1c8fe5a6e23282687a3d636efa10931f8f787490b9ddd31c22701f53dffeec9bf55caa094697b9050c1cb738b39daeab29d3
-SHA256: dc79396117128abb90e38d695c69b1826375016b49d4b0d43f922b97ffcd44a4
-SHA1: 37be500bed5e13a381754cef0fbae3b6a7c6fadd
-MD5sum: 9ccba149f3045b2a72e6c9e5bed61a4c
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, white icon pack, 2k resolution
-
-Package: grub-theme-blissos-tela-white-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13693
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-4k_1.1.0-1_amd64.deb
-Size: 3109916
-SHA512: 1e1d971688137ba6449802f22be08d1446bb91cc802e45af357443affb214c719cd619bd19f55f841a14969c6b75250c81facfc370e7b3028d3e827b3193c443
-SHA256: 00a50fb8cedc8e4c6af54f5508b9508efed44eadd75c68d79a5ebf98dd6d67d0
-SHA1: 150906329f0fe3839f846db0b0a9e10f54672a10
-MD5sum: 27343e5c2f575238248039ec91403d7b
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, white icon pack, 4k resolution
-
-Package: grub-theme-blissos-tela-white-ultrawide
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13476
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-ultrawide_1.1.0-1_amd64.deb
-Size: 3031180
-SHA512: 5d86773f01459148eb9b4a7c88cdda58dd5fb602057a49d2098dea01a2d762d4c113e9f6f033069399d6649161d8a4f3b77f8f3bb04f3e0f3b2f9a2039f827a5
-SHA256: 747343df2591b45b19fcfc8a8af8a2f9bdd9f392482b3f20ee6d5de847801346
-SHA1: 584a36c16caf3230dad1b0d3e00728470120388a
-MD5sum: 5796cd3f6939af9261c26a1f577d74a9
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, white icon pack, ultrawide resolution
-
-Package: grub-theme-blissos-tela-white-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13587
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3087404
-SHA512: dea1ebc22f5f511fa794b64ac5914f5bd60049acd1092cf85ad24dd59b278909044a08c2c70515f2fd7f64d3f36a0343a7c1067aa4bd34967ad715bbb925f546
-SHA256: 2aeafe4de8cfa6e0a44614d4410383b40682134fa651172fe9e3126ff3a3d9ac
-SHA1: feff334b6c43dccbc7fcd7b7efb0020406ed1eab
-MD5sum: e6994f34ae40dc1f8bf81fa7341879e2
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, white icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-tela-whitesur-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13470
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-1080p_1.1.0-1_amd64.deb
-Size: 3024248
-SHA512: f1a591a0caab024385543410cca60c725d98a8a03793cb1c6162480fea20442fc914cadf95e39a512bd34596d045a0f87ef15caa9350d73385df399aa424034b
-SHA256: c446530eceb200efd546e4a9f8ec67366c7244c1a2540674b3eccc75ebecbd71
-SHA1: d633fa216fc918d4be470ad62f04336ce1b5365d
-MD5sum: 47ec2dc24748bba07a67556af0967014
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, 1080p resolution
-
-Package: grub-theme-blissos-tela-whitesur-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13505
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-2k_1.1.0-1_amd64.deb
-Size: 3064924
-SHA512: 1d641ab5a65de08a34943fddaf73c6e6f921227e05b76e532fa20c602f7288ee2d44eb13860535816ebcbe7f5ec79c0bf4315e222ad59940563168c37fbcbc86
-SHA256: b3f6bacbca8e265edb34edc3e5add9ccfd8940f1717f872333ecf92d7d235ae6
-SHA1: 1b6ece5daf09b6079962732b2313be140a92bf95
-MD5sum: aa6b647d285bf2d98d94f2b25370b975
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, 2k resolution
-
-Package: grub-theme-blissos-tela-whitesur-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13682
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-4k_1.1.0-1_amd64.deb
-Size: 3091624
-SHA512: 61ca765751be88a7e85ad09eefa21156db3d022f11155deadd458828efdf563ab83a5567e9196191549dde768a03170667afa5b7a7b6a30846b411227c7a23bb
-SHA256: 2e21f03417e5841e410ab76181a778e940076c2e8d87c59740424e268500adb7
-SHA1: 7540bbf12db016c0894e14bf443f42baa0ae4db3
-MD5sum: e33efa37025782075ce11d693274dd89
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, 4k resolution
-
-Package: grub-theme-blissos-tela-whitesur-ultrawide
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13478
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-ultrawide_1.1.0-1_amd64.deb
-Size: 3023428
-SHA512: aded2aedb74e9238c0267d7dc9146021ce6b524a89c272030b791602a75727af13b3424a0589b691e28459c580b180b2a15ad0e5e946eeb6fe1d9e03f858a33b
-SHA256: d30efc9d3e9b73db2149354cddaae8b432f72b98c7f4403d31182f18f9adfbdb
-SHA1: bc02bcab3c1a699d342f11e0b40f02f29cd4a6ec
-MD5sum: d67d2641f1db926cda0eb686e85f5a85
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, ultrawide resolution
-
-Package: grub-theme-blissos-tela-whitesur-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13571
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3074380
-SHA512: c85ea9c126e120b0ab867e93eae05ea20848408ffb08a8467fc67154845fad3b827476f118011ef821a08be33503605a47d0d26378d75670bb47ccb1134c0dce
-SHA256: 1b1cf8c7ba1b175e8a7faa8e0bdd8f45ac037108c4c8d6a8a8a29779c2f5a561
-SHA1: 9e42adb4dac9098432ca0041028ab62bb807fd00
-MD5sum: 99405a608d6b16156ecabe57c60a4156
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-vimix-color-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13792
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-1080p_1.1.0-1_amd64.deb
-Size: 3408236
-SHA512: 1e3face6c0734c3e2626e2b6e49b75b69c1b89f5c37b2d46e8057215b78d00263a9e4a15f48907d7fc56ff4f8637fbdc72d119d4743033db6ac444815b3ce560
-SHA256: 9dd0530331e808f1c3b016555f8b209a3063ba788493f1baee106aa0b5ee2e10
-SHA1: 3f77232bfa2b579f48889779a569228b29e910df
-MD5sum: 899edbebf1a45b5f0cdc8396fe744d3c
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, color icon pack, 1080p resolution
-
-Package: grub-theme-blissos-vimix-color-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 14124
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-2k_1.1.0-1_amd64.deb
-Size: 3742988
-SHA512: 021b6287eae5e922a3bd706bbd4f56fd68ab502af6257dd567cdb74b84be6089bdcf198d857fa08c8036e48648f231cb072933210fcbbf8c60294f10ea30c0b8
-SHA256: 40ec43fd11aa574f1771747eb724b066a1e71065e2574447297926fc6aacc954
-SHA1: ae269e00d055a4fd7e4c9ec0530f6e6d994490ac
-MD5sum: f7f0d4ad1cf30674bdbda2c9248e8aaa
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, color icon pack, 2k resolution
-
-Package: grub-theme-blissos-vimix-color-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 14906
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-4k_1.1.0-1_amd64.deb
-Size: 4475880
-SHA512: cabc6ec7268ba4cffd38534d1919f381ba9d63056f5ccaf0e0cc6f984f5a1f2c3d8a987a5378e9b3330c2e880a798d9aeb20e2237aa71769f309f2df0b4dec41
-SHA256: 6671e708af8cc25a4d8d0ff793099339d2483694c3a574f337c38a654026df9b
-SHA1: 400b87358aa288cb8a7051d3f76b1c9356c9e1b0
-MD5sum: e606015cd9129914987b6a701a6e3906
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, color icon pack, 4k resolution
-
-Package: grub-theme-blissos-vimix-color-ultrawide
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13565
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-ultrawide_1.1.0-1_amd64.deb
-Size: 3136496
-SHA512: 78ac0cc208daea4a5b958d31da8ee44fdf71c7e83b9171d91620ea28b907188b99eea10a10d1af0a174b753a35ddc5680ef3a2f1fb69150bde68e8cf99e8bc9f
-SHA256: b907c958c37d89ffd01099e7c809bc22ac4f62d6a109e416bbf9dea7091c09a4
-SHA1: 0018860d775e5b746bde812e3099bf942c71ea47
-MD5sum: cd118d044b2a1bd3b27fe32bd62060a5
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, color icon pack, ultrawide resolution
-
-Package: grub-theme-blissos-vimix-color-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13687
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3242100
-SHA512: 647dac8fc085f7255f946149767d8c18212cbe5555c05271a8ad95157acfd5bf842749d275e04acbb6dd0a67b42ecdb237c77cd4277c24fe1e141d3edcb982c7
-SHA256: 6096b3ee8d645c2d9e28743b734f806a2a3c3bc606069ceebfe3ba15f4c6cd1f
-SHA1: 920a49f5b853133fd44a550fe68f6601c4722a1c
-MD5sum: c7c9aa7e4ff55b787afcc59330931d3e
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, color icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-vimix-white-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13818
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-1080p_1.1.0-1_amd64.deb
-Size: 3447256
-SHA512: f3fc4fca10a6b99207552f2f27b4b3e6648b15d2f7bc36b2e325683eb10701d670926a7bfff3515ebe74b9814ff19460da3de486e5b62a65a9ce30b19829c391
-SHA256: c8a31a75f87ead138681e8816d9f2dd489cd8ab882cf0bdf96dc02a653009dac
-SHA1: c633350365b863351cf83daf828c0c94a94cfbf5
-MD5sum: 525d96fb02ecc5adc72cf18d340a65d3
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, white icon pack, 1080p resolution
-
-Package: grub-theme-blissos-vimix-white-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 14193
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-2k_1.1.0-1_amd64.deb
-Size: 3800644
-SHA512: b4d4eace0b3be650e8b84119a0729f8b8d3bb342d71463778ff1288327ee33c3876fad89f21acba89bfda477db3a989fa9b1b7df177503e224797d43f59fc66a
-SHA256: 60e954141997f294026f22f7e69ee1173ca0e7274817bcecae0decce3439662b
-SHA1: e93d319343ddc3acb6a69cfbc768a723865fecb8
-MD5sum: 9fb26bd1567f3fc2639e1882d3f79a3b
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, white icon pack, 2k resolution
-
-Package: grub-theme-blissos-vimix-white-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 14992
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-4k_1.1.0-1_amd64.deb
-Size: 4560952
-SHA512: 9890f4be68f8cebe1226a099caa5a68d1069480d0798df86b1f07fa163519b90eca95b3cc311de6f133493dc0470a2345487c183df490e5684602f779058ff18
-SHA256: cdf4a0bc78914d0a910a6d03e37bfbc23338177e2ebcd399b812d07b140af811
-SHA1: 25f84a5732f5c46256842cf32738cc09c46823a0
-MD5sum: 0ea66c9bd326b75b3928e9fbbf0586fc
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, white icon pack, 4k resolution
-
-Package: grub-theme-blissos-vimix-white-ultrawide
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13591
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-ultrawide_1.1.0-1_amd64.deb
-Size: 3177880
-SHA512: c61dc62d35421563b08202ab3bddedc5c62f0b6539f4b811968b649697936fbbe708212c09e2fa0ce0bb39cbcdb0f445ec70376822935e85e4dbe5e573d5f1ac
-SHA256: faa1b766070045a07bb4326003873f8f8f52df5e46485d1235635a3447f5d7fc
-SHA1: 7aec2af5a1ece85e26ad98d5618da87d9b21c6b4
-MD5sum: 655ccbf469d1342ee026ec15f1a1ab26
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, white icon pack, ultrawide resolution
-
-Package: grub-theme-blissos-vimix-white-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13756
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3299896
-SHA512: bdc44f54fd16352368839be104d1d83a600a3a7510d26f70c7e11748d54b6f5f37b9883c90ff8582db789b0fc940870e7e906b9bdf7a273e865f1ed3fd4146b2
-SHA256: 11f9c6ae8dba9bccdb95b615009b0246e01b5615d6756a3d197337dc91cfe591
-SHA1: d000e0a1a9622dbef586f739dad7be1761ce6b43
-MD5sum: 06dcaead28e1de804e9a47b3e734a55d
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, white icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-vimix-whitesur-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13820
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-1080p_1.1.0-1_amd64.deb
-Size: 3431860
-SHA512: a089ba58f62aa1e84ea6ad19fe2cf3bf983649dcffdd1b830456cd34de1268ea3f9fe2b8f649c10b06f671d6103e6c36c581b8f580c56e6f5b9e01b26ee37f42
-SHA256: 1a8d8407b2a4172c093149adb0644fed8a192ce9ce5b43ea9a3aaf71d7750f28
-SHA1: b8fcf1eec366b54dd6d50be9583df1f8638854c1
-MD5sum: dd41b116a8f23e38b465ec9f2ddb2231
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, 1080p resolution
-
-Package: grub-theme-blissos-vimix-whitesur-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 14177
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-2k_1.1.0-1_amd64.deb
-Size: 3796384
-SHA512: 7e23acfe77a62796c4d2e6515db2ddbceebad0f3cf8d769bbf195a5eb1db0c3ccbce59192cda1c74dca5ba2e8678b93cf0dd8c52728396f73ecb032533b7858c
-SHA256: fba469b50ff1afcf96bc4718a7cb81c7779932411a76ad998285dd273e8037d0
-SHA1: 92004b2572148363dd9b030a5c7e84704f8bb9c2
-MD5sum: 4a56e5b6321089f8c1140cdeb05f5895
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, 2k resolution
-
-Package: grub-theme-blissos-vimix-whitesur-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 14981
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-4k_1.1.0-1_amd64.deb
-Size: 4533956
-SHA512: 9837f80c011b0019de3e81f34b2f8932624921320e1b831b8d7bf861bbf5f1d3fb39f17f534df9118adae40562229964169c81dbe5f8782b701fa6d5fc2bf2b4
-SHA256: a7bdc1381aa7d1ef0e6ddfe85b4206e7674e6bbf3bb8da5389d1554a15da7739
-SHA1: d0ad4e5b82955fb2ad75954ad05b3d99687220d4
-MD5sum: 1624437ee0c1ccf18013bbf540c6cee3
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, 4k resolution
-
-Package: grub-theme-blissos-vimix-whitesur-ultrawide
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13593
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-ultrawide_1.1.0-1_amd64.deb
-Size: 3168996
-SHA512: e1782e8cd213dac23e116bfa9b5d0aac7d0bb29c0e7d59dc89ce4d5bfc2e114fbefb711d6c3316ae3dca527b7d1572f4450f14e34df2b87cacacd5c82e32f2d9
-SHA256: d464a7fe0c521c078f01331b8bad470324a9796153515490d97d6ac672e3667a
-SHA1: 51c09982767e418f9c0324612db240ae5dcfab38
-MD5sum: bc0dc133821c8fba89f721bd075cb987
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, ultrawide resolution
-
-Package: grub-theme-blissos-vimix-whitesur-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13740
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3287460
-SHA512: 3ac791f3dfad2dc4ede1418973ee9d79c08e6bac25d341a3186ff737635993d207d9d79330037c3ec0270796d716f769db2e675fee927709bc238238c39185bd
-SHA256: 3751dff4a15bbc0d972ba64f62d71b0ab42b4986ff0e4bd70c85f13db16e0606
-SHA1: 37e88fc02dddce58ade366377b50492507ba76e6
-MD5sum: c664576aab2309fccdec1591f908cdeb
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-whitesur-color-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13652
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-1080p_1.1.0-1_amd64.deb
-Size: 3248432
-SHA512: 67727e1e28a9e01b97d67f86eb2e4545e035c75edd79e18da3f05afcd33a59a529516a58d4de489b642818d81b81bf35c9de2b4128c21a52661b3c4fd0803f73
-SHA256: 3b92229b91e67b9130b926df4c3f17e6f167c5c837a76ffeb0d66f15521a239f
-SHA1: a498bb1e845af1dc5ab04fbda46c5b5344533642
-MD5sum: 3982ce3f35eb7ca4d977b2f204e6062b
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, whitesur variant, color icon pack, 1080p resolution
-
-Package: grub-theme-blissos-whitesur-color-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13798
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-2k_1.1.0-1_amd64.deb
-Size: 3382332
-SHA512: 1d0e9b9bf6f027d9deb4def66919fc9d8c2b293c6ddf308ad819941465b8d3f9f5e275d457232b6b47c2f6004d1df07b190a68cbd5ef4403fdb9c9e0b337e597
-SHA256: 7c64a0ed52290e17fae71e7730e2bfc5d85d65ed6ba29f85c015eaac4aa7f0fa
-SHA1: 111c0bfee7be386d8ee534a69a8eb144de4eda1b
-MD5sum: 03e9f801ce13523a17ea8bc145a4c281
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, whitesur variant, color icon pack, 2k resolution
-
-Package: grub-theme-blissos-whitesur-color-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 14124
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-4k_1.1.0-1_amd64.deb
-Size: 3630492
-SHA512: c7936e4aced332ca95414dfb36f223ea37edf7935e3d7e6fbdb5513ff54c987ddc5c8391c2e230c9825a196eb6c427375be8f88f72dd9b1022a8aafb077bdd1f
-SHA256: 0ab2b231ca4584075b9ce187c2dc6929659480e89a84b0a5742527e6547c205f
-SHA1: 21377f0b52601de1214dce66cc0f3beb94a93038
-MD5sum: 00fd0376de427ac8d3d9b1a121eb7f77
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, whitesur variant, color icon pack, 4k resolution
-
-Package: grub-theme-blissos-whitesur-color-ultrawide
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13499
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-ultrawide_1.1.0-1_amd64.deb
-Size: 3090992
-SHA512: 23559cd4fb498ed30e79caffa1b7549a66a2c3a449dae8324aad003550af4796d5c71988b79d6e2074742a3c2e5f465fe2c60465847718cba8468acca9bf8625
-SHA256: bfebde63be71d240d9a86c68d61e1dbf2ec8aecb2a880f781b613ef96759487b
-SHA1: 3333cce557db47cfed107478e04a3a1a17e3fb97
-MD5sum: a61634f07b69078a482b82e892d1593d
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, whitesur variant, color icon pack, ultrawide resolution
-
-Package: grub-theme-blissos-whitesur-color-ultrawide2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13571
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3153036
-SHA512: c7e699cf6ec9a1deafb5b36ca42893588632ee5df172f2a26535b6378c153880972aa192a1d467e2cb8971bc7364c0fa1bd8a6ef0db78202a4d93945e24528aa
-SHA256: 0b46457478385d995c0b99cc164bd51f4b36e7f953243b70f593c1b7790b201e
-SHA1: f883b2837d3c85d34faf39bf8c380c7144390334
-MD5sum: eecfc6a884b9ec49862ea0fdcd1ef503
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, whitesur variant, color icon pack, ultrawide2k resolution
-
-Package: grub-theme-blissos-whitesur-white-1080p
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13678
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-white-1080p_1.1.0-1_amd64.deb
-Size: 3293360
-SHA512: 1d9c97c6660324faff3b5c33c122424a22c48ead5606c13b7d3974774c396040509dbf2a35b8857933e6179b9c11cfa49118ba1058b502138726f3380bbfe3c3
-SHA256: 5cad0885bcee007fe51bd9dc71fab707b1fbc18d166eac7d641bb98fc422051a
-SHA1: ba218fd0e6be6c34ae85a646d95dd8f0eebdcab0
-MD5sum: 7bbe653b51f099abc73fb200cf0b4e91
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, whitesur variant, white icon pack, 1080p resolution
-
-Package: grub-theme-blissos-whitesur-white-2k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13867
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-white-2k_1.1.0-1_amd64.deb
-Size: 3440716
-SHA512: bac288c8a9f8f0424e321feff64df97254f405fc19a6fd1b88f541fffffa5b6c775895ec984bdb784fbe03fc91d07dc445cd467e29bf3daa041fbd38bf8c699d
-SHA256: 405d1ace49265dff02040decff8da31635001b689c5f933bdcb78bdb994c181d
-SHA1: 33b109c42d5ae95bb2bbd22239a6e313f3b10c12
-MD5sum: c3ce96c50c765d025497d0811de4725c
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, whitesur variant, white icon pack, 2k resolution
-
-Package: grub-theme-blissos-whitesur-white-4k
-Source: grub-theme-blissos
-Version: 1.1.0-1
-Architecture: amd64
-Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 14210
-Multi-Arch: foreign
-Homepage: <insert the upstream URL, if relevant>
-Priority: optional
-Section: unknown
-Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-white-4k_1.1.0-1_amd64.deb
-Size: 3705848
-SHA512: c6754d273afbf907661250766d0c1bfac78a6eddba2adec591cff4d5a6e29c7ab8fe9ef4056d6431c791987ffb5d7b564a6966ee3b927a35fc9927161725726f
-SHA256: 9b2ee250d0a1997c3bd2c9fb82b17beeebf956249022ed146c13813c18b2d330
-SHA1: 1cbdc53199d01811732904b526f2871a45342c72
-MD5sum: 5eff823af0b8fd14006faa0cdb84315f
-Description: <insert up to 60 chars description>
- GNU GRUB theme for BlissOS, whitesur variant, white icon pack, 4k resolution
-
-Package: grub-theme-blissos-whitesur-white-ultrawide
 Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
@@ -1080,12 +149,943 @@ Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-color-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3172388
+SHA512: 79c3372c28a58a846ee4ddf60407f00271797b07e156e1308c0d048e4c8add5589866b09e9d150705fa7ea1af013286e67a1e3ae84ce35c0f87d8c552283ad1d
+SHA256: 51c744c1636cbe8db3c2966ddd321cba748ff62fea71d0d7da00c64f2f45b9e9
+SHA1: 3141c5c263f84762a917b1622a54de73eaf93728
+MD5sum: 0e3c95b258de5fba01bbb1312a3371e9
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, color icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-stylish-white-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13432
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-1080p_1.1.0-1_amd64.deb
+Size: 3124528
+SHA512: ad40136853d7da47c629729eebd3ea81602334c7fce2ac07895d261723cc31821acc8d8f068597bb88258b8f06a39ac6dfceb8a19a9d27677796812f84c954fd
+SHA256: 5c7961e6e6f20f7495394f458828144a07688f14ee57aa7817beeeb1f36a0261
+SHA1: 27222ffc2e73bf6fa68a553805189d7395985dd5
+MD5sum: ac510afae2ee5562c12cdf854a91e188
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, white icon pack, 1080p resolution
+
+Package: grub-theme-blissos-stylish-white-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13481
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-2k_1.1.0-1_amd64.deb
+Size: 3163944
+SHA512: debb0fdda7907dbac13bc8cd158edcdfdd7cb5c6e0db7819a3461d13d92aed319a9000d61b53945cac3c0f35240a0bc5cd6d21f248e9a632ef19107a60a69251
+SHA256: e477f672afebc85e071769b16c28d4bf9ff1212ea07f54fadd0e420422bb701a
+SHA1: d6f26e632c135e150f76c0d9bf99ddd65846395e
+MD5sum: 0b3cea5f0cd35f63b5c8082355afd43b
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, white icon pack, 2k resolution
+
+Package: grub-theme-blissos-stylish-white-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13742
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-4k_1.1.0-1_amd64.deb
+Size: 3322072
+SHA512: 50c03ea4bf2f2d59a72033ed1a7c99890c044b8402cb1df92e8455e8a4c239cfa91e3e0124404cc8deeb86937bf61dcbde516ea56b3898583fa771e154150b5e
+SHA256: da0ec160e463e71402a55920199a43eae75ed095dcac755dfeaf8cd9f7714b2c
+SHA1: 35b3e27a1e369daa3aba27689ba91a3a2ebcfdc1
+MD5sum: 9a119e16aec5971e4f557b3858fa7f88
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, white icon pack, 4k resolution
+
+Package: grub-theme-blissos-stylish-white-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13460
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-ultrawide_1.1.0-1_amd64.deb
+Size: 3136628
+SHA512: 220de940e11f55714f7d99be2a630f1ff208bb2c8a4c6164138245378253c38400d21f6e3d164f03607bc9b60fb9f85ef838773420b7dbea1ec80e3e393a6b11
+SHA256: 0a9685a240b2399ddae4770613eff27a0447fe69cc293c725f1031f0fff68b5b
+SHA1: 6ec41232b6f74d56d166058635dae9dd18b9650b
+MD5sum: 6d26b9c68ef67a941a20e6ed0aebf99e
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, white icon pack, ultrawide resolution
+
+Package: grub-theme-blissos-stylish-white-ultrawide2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13594
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-white-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3228192
+SHA512: 0f00123a80846b48a7b9bafb673e37b5dc339f7f9999dd393fd1750ae4c7bc24ab6f3acdcc8a829a9e8c891f2e27b5b6bf84a5a74c4fabf37b22bb2d27993208
+SHA256: 6398bbab5b340eac21f287c8ce4a52f624422b90de455066aa7e15c1dacd7cf3
+SHA1: 204a284605222291833aa4d4d86fff124b4b3220
+MD5sum: 08672313b57069066e93c0e34c5c71e2
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, white icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-stylish-whitesur-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13434
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-1080p_1.1.0-1_amd64.deb
+Size: 3117240
+SHA512: 47811d474f190035f833855aa6b622a0a347f53f2fba3a8b1e90e3c8940a9218cf60f32ec071fe69feaf09719910c61e4fd01f1a120b639dce7b1c77a4625df7
+SHA256: f1a31151d34a846a5892d91369295231578b6a756c279a2fa2bd4290b45b5bb7
+SHA1: 8f6591ae752e821ca3aa72ea5b04f8a32ca43a98
+MD5sum: a87e2d610c168ad0a80a0e9ccdca6279
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, 1080p resolution
+
+Package: grub-theme-blissos-stylish-whitesur-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13465
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-2k_1.1.0-1_amd64.deb
+Size: 3155976
+SHA512: f9ec32e958074d1b93078e44e97a6d2b5d8b2772ac9e93ccdd17d3513ef88ad6ddfe14987830db1738c3d4c13b4f6f5b26d85a7edfd64619ad893c48ff24cc77
+SHA256: 942d2133a40a79a890d39d37e364beb29a9f6dbb134b224ca05d3d5afd192016
+SHA1: 95fc04b644d5ac1a4b3c93f041a6bc119f5b265d
+MD5sum: f1c14ce73d5f10346f702e46640fed5a
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, 2k resolution
+
+Package: grub-theme-blissos-stylish-whitesur-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13731
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-4k_1.1.0-1_amd64.deb
+Size: 3305000
+SHA512: 1fe99286f63ffb84cfb9453ba9fb480e07914d1a487188dd3f638ccdd603501d973f4abe0c863e96ae71e6258f8e814fab86a60586659cf0cf52232e01f3e3c3
+SHA256: c64e24543a7617c142b2aefa67cfdbc3a70de8b2c24cc1d51a5777f6a11d86d8
+SHA1: edeb8c0919079c74512b7e995c14d42665ab6be2
+MD5sum: 3c05d95baac12d689bafb875c32dd110
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, 4k resolution
+
+Package: grub-theme-blissos-stylish-whitesur-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13462
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-ultrawide_1.1.0-1_amd64.deb
+Size: 3132864
+SHA512: 29365c03685a3089dc76a874b33a005cdc5b729ab0f02667a96e3c5869add6b98d4ce132a2da874dd1889e90cc33f691c858d877aeee98668596381b9459c16c
+SHA256: b4212909d18e56554a7559f2982e36bd37b5bba8ca647b1d7d4eaffc9178adf4
+SHA1: 88d8215c496b167b79535a5ce3454edff6a71c1e
+MD5sum: 41c1a09af5c17bee8e260ac08dca4e9a
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, ultrawide resolution
+
+Package: grub-theme-blissos-stylish-whitesur-ultrawide2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13578
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-stylish-whitesur-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3217144
+SHA512: b49392470013c114366740ad5cea6379ff30a569bb73d8ed038ad4bb744bd05eb3b1d3d35a43c83cff6a81007bd7dba7aca0103e3e5bab75118bd2af03ee7a38
+SHA256: 76ca32d3b473cf7de24052c76bd48291fcf394dd7696fecc52c81ee5970db093
+SHA1: a87e459df55ac9eb8a1311c2b636527c36ca26fa
+MD5sum: 5ab3e39a685230f6de0abd2712b18086
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, stylish variant, whitesur icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-tela-color-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13352
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-1080p_1.1.0-1_amd64.deb
+Size: 2994808
+SHA512: b580f5a64735d32aeec865826689563e772b07c9528087dae24ae46adc9f18595b3c1ab3db854e9b0aebd554c2c9398635fd1be0fd7bbfb7a51868d7dd92ecda
+SHA256: a7f21a0a8f71cd4861f6b59258c9b1e16e287a40510e067315e5e8c8dea6260b
+SHA1: 01ce0077a661aff5d344be723d69b9fc69f3cae8
+MD5sum: 468e52bba0509637b8b353d2d9f30abd
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, color icon pack, 1080p resolution
+
+Package: grub-theme-blissos-tela-color-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13362
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-2k_1.1.0-1_amd64.deb
+Size: 3018688
+SHA512: 6673fe9f0117279d1c2bf6776fda18c4cff44eaa9f20afa72e3aefcf34ad03a377f913ac63db476b057e5bec346b4bc8cdb379248e7de14ca37ff60f2fc243f2
+SHA256: cccfac0be16b4314c8f426d34f813d0b5dad0109e7a666f8507b9ae0c8f132a4
+SHA1: 085b57fc798650365d438fdbcda477cc646b59e0
+MD5sum: bbe5862345af695b8d270d3bb395d196
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, color icon pack, 2k resolution
+
+Package: grub-theme-blissos-tela-color-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13517
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-4k_1.1.0-1_amd64.deb
+Size: 3030000
+SHA512: 1c7634c7b0709d796946fa1c371dbfa0c7a6c986666e83494b71fe0cfaccfbb55a6a248dd237e0c6c62d6a34487b26a50326106191b0375defffbadc646495ad
+SHA256: f45614cd06310f794dc377258c9ee9ae2102b8d3f936b510c0929b7284f8eb04
+SHA1: d5b78d32594e569d305e26a780eed37b5d049945
+MD5sum: 3bff4290493f7918977f4924c7e4a45f
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, color icon pack, 4k resolution
+
+Package: grub-theme-blissos-tela-color-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13360
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-ultrawide_1.1.0-1_amd64.deb
+Size: 2990720
+SHA512: 6b70f8aac60e1a79d1307e2ae118f6840165ca199532fec8cc85beb99c02dbec755df58c279b1160577cba3a8f3409ea536494940c9f9db3900ea6b5c4e277cd
+SHA256: cadae501b10b234e4fb67e229909f12af6a63040c051b1f1bead62f485eab990
+SHA1: 57d0f9b319f8d375f92997a686cd5131c1a68193
+MD5sum: fb73884b0008413dcbe1f999eac85fd9
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, color icon pack, ultrawide resolution
+
+Package: grub-theme-blissos-tela-color-ultrawide2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13428
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-color-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3029484
+SHA512: 57bfe34ddd5264cc0e3e606cd1d4e4ffe846a98c70cca6d1195a418fcd8c808a234e6f792e48b04ab5fa950a61e3c7909d76cddf2b42fe4b911ddf0304e9c010
+SHA256: ae9b023f280bb06954626258fa9c918440332e75dcce48d5fd2001876735320a
+SHA1: 641db1d6d10d6bac7f24364ccd33d163d1db1b0c
+MD5sum: 0ebfa65256febdcbbada159c6607c00d
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, color icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-tela-white-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13378
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-1080p_1.1.0-1_amd64.deb
+Size: 3030400
+SHA512: 68688fa90dda0a24ac80c12bcc8ba7f09625b72744f7726a494e8be88b16e6fcccf7541e11fb5c256e8ce267048ff59dfe003d16fc45d7de034715ed31d902ed
+SHA256: af2dccf0258628a4c2d5812c98fcd0aee57a60cc51d1d7e24811f83037ec56eb
+SHA1: 81f550e1fea0a4b70808cfd97b82545a080dcef4
+MD5sum: b3a47e0a22ae55dbb76422b7d7bd273a
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, white icon pack, 1080p resolution
+
+Package: grub-theme-blissos-tela-white-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13431
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-2k_1.1.0-1_amd64.deb
+Size: 3075884
+SHA512: 54b70387621b638e6ae4a873e649492e4d300fbae63c1a0f9e589ac084e53612adf0a0ddb0ce041b92a445130cb74aca913a93569391a0edab85bb6deb8cb85d
+SHA256: a232af0abee43ba6444669d9f25aadc2a7269263d28e8e6821e445bf74a83080
+SHA1: e9d23a11d5d55ff6f5b25a678887491fad8797c9
+MD5sum: d18d9657cca1f8635596e2e70abe1ead
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, white icon pack, 2k resolution
+
+Package: grub-theme-blissos-tela-white-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13603
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-4k_1.1.0-1_amd64.deb
+Size: 3108972
+SHA512: a0c0feed9068cccd69b13fc5e60e08b8da713603b3a91d5e935579e77b4a3868307a411606448a0d99986e6b72c974065859842abfbfea6b4cc04f904300170c
+SHA256: 69c52df5bc930ce0abddfe8c6a4b0f48411881b6594d14b7fa1b7087abd8d036
+SHA1: b1bfb121ab932d4c56e2d6181287d5c4d7a19875
+MD5sum: f6e7893f50623e39bb9e7d6822988b4a
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, white icon pack, 4k resolution
+
+Package: grub-theme-blissos-tela-white-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13386
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-ultrawide_1.1.0-1_amd64.deb
+Size: 3029916
+SHA512: d2885f1e9b39f07957c27cc1ee4808452bf9c25683ed77b201e9f40d0ba5fefa08fff4f6fbdf0f37fa5fdfc85d8375cc999074f02adccabe75dbb6967f716477
+SHA256: a07ee18d1e5990370796037220d74b75e7c9bcecc57c7435641343236493d9f7
+SHA1: e6af88f331e681a76b7a4d90324171f3d090ced9
+MD5sum: c105f4498523b629822f4155e71a2bc6
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, white icon pack, ultrawide resolution
+
+Package: grub-theme-blissos-tela-white-ultrawide2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13497
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-white-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3085984
+SHA512: 8b17edf58483c8b60d676b1bf169b373a928540db8464984f0a50bf124ff806ef750a41a040e8da329e697b0a570e9440d763fcdf2ffbc49f6b37aab0c119309
+SHA256: cf6ea0166965af82626907be341388723d780282ea07eeb5a9b080a073b88085
+SHA1: bf12ba7796c576ece9a3d070092fdcd38f2d300c
+MD5sum: 67834ba51eb53017d761b4d30dc80a3c
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, white icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-tela-whitesur-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13380
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-1080p_1.1.0-1_amd64.deb
+Size: 3020936
+SHA512: a5b1e3a62594d4c64f31152766c70e67ddcdd95a2de6217137166d122086eb3b8bd83293239316fe8c6dc97bfbcd6c85acdf0203d71830753b5ab13df9d53986
+SHA256: 77f76c0a36060464fe75473cc8615f3613f4aab935907100877e90a1010897f4
+SHA1: 55648fba79640df2fb4b3bf475f430aec2cce47d
+MD5sum: 92551e823186fc5ad198c188b558faeb
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, 1080p resolution
+
+Package: grub-theme-blissos-tela-whitesur-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13415
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-2k_1.1.0-1_amd64.deb
+Size: 3062916
+SHA512: 58156e4870a731f82b7e802a0beffe8f0bdd00ca66e73feb17b398b65dc8a803955889a23ddb75c68831d2a1665e5edd45e972ebfbec2d9ffaab5e7ac5da4410
+SHA256: c02113cd6859c3f83c46d5bde517d1eee43ab2800c90e807e1ed4f55150d7465
+SHA1: 1037c9a9ed23efb31cc2848f09f2b2020ae4e6e5
+MD5sum: 16ca8f7033b1d445c0c20609381a017c
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, 2k resolution
+
+Package: grub-theme-blissos-tela-whitesur-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13592
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-4k_1.1.0-1_amd64.deb
+Size: 3088236
+SHA512: c33c078991440d589dd4bff297d207339ff6f6058c7f6963219069c60f122c6e5f8630275f1d1ac072f3adf64e1a153194dc58df62a0b38c94b90c3dc2c2c0a9
+SHA256: 070014433a6cff9c81e821025558b38aec1f22b81304b3cd7fe797b160d8751c
+SHA1: 1b50109b91edce419fa754b94ad23f90067c3953
+MD5sum: 61aaf8f6ba7433cd5f1536e5b4cbf7ed
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, 4k resolution
+
+Package: grub-theme-blissos-tela-whitesur-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13388
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-ultrawide_1.1.0-1_amd64.deb
+Size: 3021024
+SHA512: 3e52290af82a263f78e5786e696800fe3da71d8ecd3cd992aa0e63fc3416f8c8be982c7cfc1e9c219fc38a847a3059e28d23379052d3d096275574b90161fab3
+SHA256: 4558298888aaad6f65beeff930e1879587e1579bb087cf37472af2b61006fa9f
+SHA1: 61b3a177e74a76bf8c83f46e7eda00b0cced06c1
+MD5sum: 95e15d6d55b04b0142237ef65ffbeba0
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, ultrawide resolution
+
+Package: grub-theme-blissos-tela-whitesur-ultrawide2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13481
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-tela-whitesur-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3075864
+SHA512: d49caa64e3bb6961f25d336acf583b251cb17fb044296b7f05c64feb5f3410a3ad19093401a8eb7f175491303aa98a9de3813bfe4c1985a28eb8f3d4ee32bd98
+SHA256: 63262a30180ba716720d8fa5b51e707349a569a4c51b9cc03a206c4c72c2d396
+SHA1: 3ea9ceb0ab4bcb7b9d3185ff2021d9a721575fbc
+MD5sum: 3fb97a8b4b00f49a9b44feedce31420a
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, tela variant, whitesur icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-vimix-color-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13702
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-1080p_1.1.0-1_amd64.deb
+Size: 3404136
+SHA512: f576250bf2ee806440258e34b62559fe32d7139f5fa48e6d8aebe9f960098cf19861deed163865ae31c8471e3884c2b87374dc54ccc4d17dae41d05fcf90f3d9
+SHA256: f597ffdb4c8445297118b5335889969df6e7b4e3a42a49a11daad0763f55267a
+SHA1: 97f4eab2ef410a3d438a4f47617a53863831cbc4
+MD5sum: 7dce3b58087b5ff7f90a242269748593
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, color icon pack, 1080p resolution
+
+Package: grub-theme-blissos-vimix-color-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 14034
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-2k_1.1.0-1_amd64.deb
+Size: 3742720
+SHA512: 713f1f3ddf9e5bd8df862b236f57221b346f50fc6bdd1670521e5f0a8c579c5f316d48603d4ddbad23ebb68cc211ca8c40016a485b816ab01b428a01b93f3654
+SHA256: 739893deafe16cff95c8118c8a865c773bf90defbece88baf9e271c1faa9633b
+SHA1: 9edfe6c679e4f87a0456ec713212698480444aa4
+MD5sum: 9b6f5f16e23423a0e754ea93bbf6a6b5
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, color icon pack, 2k resolution
+
+Package: grub-theme-blissos-vimix-color-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 14816
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-4k_1.1.0-1_amd64.deb
+Size: 4478592
+SHA512: e231628b5d940d1453c4fa7f618577ecf31de8b94b9a8ed593d507499fcee0be599e2f01297da15a903bf955e356457ceb3a9492b03d6ac4fbef5f6da767bcd4
+SHA256: 3683ea1d4ea4db108f31fd261af047bac4aa865e83148154ec490e1c775f3882
+SHA1: 1f50b19665297f126b64180e9dea2d83fcf1c0ff
+MD5sum: 4d779c3e06c851727f65f082d4da810c
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, color icon pack, 4k resolution
+
+Package: grub-theme-blissos-vimix-color-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13475
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-ultrawide_1.1.0-1_amd64.deb
+Size: 3134224
+SHA512: ea31456c4aefbb552f4d9280aef1cdb368442b4aef8f5435a143c51b53bc8a2442fa2b26ccf615e8b2ff35be022165a97dd3ea601defdfd3e397947833cc8f6a
+SHA256: 2898479886196d00f9f357041eae2b2bdff0075667f0654d1f8e3534d4c626db
+SHA1: 374623f033c6cbf4513f55809bf03eda0e965458
+MD5sum: d4bedb7ae05a976e621c2b99ea961bb8
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, color icon pack, ultrawide resolution
+
+Package: grub-theme-blissos-vimix-color-ultrawide2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13597
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-color-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3243116
+SHA512: 5e5117e9f477d7a3b981650885be3165a510a0e0d8649591fc055a6dc858406758c77114f8e683d3894207d3d08998e21fc5c43db6ced25200b868d4edde7cbd
+SHA256: f85d20206fcc9121bc16b717d4a9bf521bd69fab55cdcd3b92ffddedfdc322dc
+SHA1: b135755b9d869b964164bd9474cf05bcbaaadf38
+MD5sum: e42fa061f62ad86ea789cbef23a19046
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, color icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-vimix-white-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13728
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-1080p_1.1.0-1_amd64.deb
+Size: 3442276
+SHA512: 04ebdb3668f64e45478dcbb412de3cc6f53cdf6272a3c5bddbbd5c3f24a13d513cb7ce28364b4641196a4626051d77083aeccc63ae7df8ad82ab58c850e51301
+SHA256: 412f4820a0078c5acce6dea33c242e674f056da50ce1a71faaea0e709820118e
+SHA1: 905b8ad02e2f1ba44c5b0064f2d8d05cfdc33153
+MD5sum: faff3f4eeb38e0909c9b46bfba3ed2ae
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, white icon pack, 1080p resolution
+
+Package: grub-theme-blissos-vimix-white-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 14103
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-2k_1.1.0-1_amd64.deb
+Size: 3803896
+SHA512: 739539449b9bc2d342be531c838760a23d6b05ce4bfe7b07f2a1ca9aa46c42a203ff196d2a2c809bd164964e23dc7cdb1aca72de0f71b8cb86bea6a982e9151f
+SHA256: f639b9fab8cab52cf24f1050a3cdb9f7da6bcf33443dc4483cef0a9b14578fb3
+SHA1: 0bbf7a456f882be594ffb41c0294183d771c433f
+MD5sum: d0d04f8771ca32c370ecfc3354a266fc
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, white icon pack, 2k resolution
+
+Package: grub-theme-blissos-vimix-white-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 14902
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-4k_1.1.0-1_amd64.deb
+Size: 4555928
+SHA512: d90bfcb54b75c26576145e9cb27edf0b30eca1ad3ce1a6af77a963391a0f53a711048b96621d75b7dc8f16ff58eadf5aeb80128ab0702b356bcfd47661c1e246
+SHA256: 9e03750eef4e00807125bf88b7f8de31809cdf4241921d5e9cc759a3f49ca31d
+SHA1: c871f075c9fedbc300bb4162a9739204af119ab2
+MD5sum: 26ab66bc0f913ffd595ff6adab417693
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, white icon pack, 4k resolution
+
+Package: grub-theme-blissos-vimix-white-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13501
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-ultrawide_1.1.0-1_amd64.deb
+Size: 3179552
+SHA512: 0788030b85fa082b590945f2eaa685f25720c73e45779842fd5366c5dfc43166293fb397f0d4ac46a97049774425246b828ff3c580e31693e7687394354de5d6
+SHA256: f9e7971ffccda62c35b9116bb66b08060db6e643997bf8b2a2eecbc45ffd62ca
+SHA1: c67d483a24cddb021ff1f10452afc20195341c1b
+MD5sum: 450bd009baaec0855c4ca695482b933e
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, white icon pack, ultrawide resolution
+
+Package: grub-theme-blissos-vimix-white-ultrawide2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13666
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-white-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3297840
+SHA512: b0dabd9b5921d9a8ec51b1d5243a31e5ef669db3ff43b25c9c44b29eaf3390077f9edb83a7985b83b4f7323d04a22afab92e4f9d4ecbae1f8071416030c1a2ab
+SHA256: 5b4df3107fd7816fecc1fc8ae5ac169139ee89951b447affb1a130d6478aeb60
+SHA1: a74b44844553f56abf9ed27e0959f8b8b1f9ca55
+MD5sum: 2a4827ce887a8c9837dcb9b3c2a16c33
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, white icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-vimix-whitesur-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13730
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-1080p_1.1.0-1_amd64.deb
+Size: 3435288
+SHA512: 25590009a940fecb1252510db7f93b25c3b4f511640f9a121ba48aef387b443f5351e0441483a1fa94233b048e32a6cb1617ad1eae34f8cc40b29eb6ed2087ab
+SHA256: 54dc6a84a65bc0b7181a22f3bf4cac017d0aad678c1fe66aa0b807a96b8e1e39
+SHA1: f2d239e6a9820f4a416c32f03f1748edc8e2149c
+MD5sum: f0d196b808dfa8b5e213065a43224adb
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, 1080p resolution
+
+Package: grub-theme-blissos-vimix-whitesur-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 14087
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-2k_1.1.0-1_amd64.deb
+Size: 3787396
+SHA512: 7b46952c2dc6fb8ee3be9da8157a9355b1735eecae40018914a04482806f3764a16c921ec8fab84df5eddbf282890a0dbaebe54b89c52ef61a0a26fed906dc72
+SHA256: f7068ac897cd82b3b2d9e29ffdace56ebd449426e146701d9ca0db68d0c0c1fb
+SHA1: 9722c9e9119e1f9f2ba8b739a68c661636b47511
+MD5sum: d2d8db4defc8e7f6928fd10fc01870fb
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, 2k resolution
+
+Package: grub-theme-blissos-vimix-whitesur-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 14891
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-4k_1.1.0-1_amd64.deb
+Size: 4534396
+SHA512: 603fe78f35c2d45170adaae5732cc27f18e3da6ba0d87a35bc6a732983b7fd0a90eb43de73f680109fa15ec5674b8d7fc64d47f73db755aeceefccd533ca9564
+SHA256: 95432134bddf284e15fbef67d45258e338aac1ea69f07f402e12d24932adf1bb
+SHA1: 4d92a4d91d11ccd851b30b40ef6a3a1341d82794
+MD5sum: 1338ed4906d8fbd6058ba2081b7f9bea
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, 4k resolution
+
+Package: grub-theme-blissos-vimix-whitesur-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13503
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-ultrawide_1.1.0-1_amd64.deb
+Size: 3163580
+SHA512: 01f91e8a441af34bf9319ec346ef7f8efd5dc439d9f7bc69f1ff3605aee65def17375da5c457fc6a85431bb3fb785c0b5c0fdad60042ce0a28eeb8fc1bd762b1
+SHA256: b5c8d1aa7941bec3ea747e0e420aba7d8d3fa0dffab11f36b133c5a9b746fcb6
+SHA1: 7d47e74fb04d9c642079c03a6243a176446a4e1e
+MD5sum: 868bd980851d115b236b35ea6803bf3f
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, ultrawide resolution
+
+Package: grub-theme-blissos-vimix-whitesur-ultrawide2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13650
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-vimix-whitesur-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3286728
+SHA512: 034cbc17ec645f27b3b998c8f20138b036c0d2e2ca28cfb2bc7ac81dfb16330668a479bca4c9158453263b22982ec181924ed4e9f68603d0ea4ceff3af5c0faf
+SHA256: f117b8013348e6ebf59be0f78ee71ec637013ee7a0c446ff4a01342b47e9161f
+SHA1: a9db4cafcf4ea087d8f32c76381cd9ebc94281d6
+MD5sum: d8030da315c0fc37f9462debd9b0b80a
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, vimix variant, whitesur icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-whitesur-color-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13562
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-1080p_1.1.0-1_amd64.deb
+Size: 3247800
+SHA512: c0b5be407f44b786d45a63779ce8fa54321d24d8a3fc736b917adb8edbb4fcc5edf0e9db9892202791d5233774ca06c027282010e2b3d26271f292842d262036
+SHA256: bd2cba41a88e5be9e66b5762c2d279cf09f0b27c3c0efcdcb21dca854088727f
+SHA1: 729ae9b45370615abec067a3968f5f101763bca4
+MD5sum: a81aa3f7e3b27f2c13014a42ee2bad59
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, whitesur variant, color icon pack, 1080p resolution
+
+Package: grub-theme-blissos-whitesur-color-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13708
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-2k_1.1.0-1_amd64.deb
+Size: 3376740
+SHA512: a43cd49fcc02dc0f288d7e17fcd6e778ebe92893eca4e2961326a52f5386996a8072e52bf29f8de6569f889b84bf632c8bc7f5b9d76745d9bb8f2d70e52c500f
+SHA256: f87603d2c6836c377aa06e34befe5e33816635aed48869b60cd1aa8fb81178d4
+SHA1: 4393bc084218072339e517a4671aa15a67f80efe
+MD5sum: 224d0db2c8db30a9c4d34bd29f3184fc
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, whitesur variant, color icon pack, 2k resolution
+
+Package: grub-theme-blissos-whitesur-color-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 14034
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-4k_1.1.0-1_amd64.deb
+Size: 3626976
+SHA512: 2bb80038ed4c7d98e8968c658e848116d8bb91f32f5d1af07675b9f2b15db8468809a5c8d95035fad2ca4fbb4bc1c5292cbabb0248e38c1302d7ecd67a24e176
+SHA256: 93a3331c11ef2d5b17eb46ea209022ac9717966b41972b4b92b474f1c0129c36
+SHA1: 7453dbe330bf04d6a21a1a7d1fa638d95346249c
+MD5sum: 23773189aa2db9eab3b513196622a1ad
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, whitesur variant, color icon pack, 4k resolution
+
+Package: grub-theme-blissos-whitesur-color-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13409
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-ultrawide_1.1.0-1_amd64.deb
+Size: 3089628
+SHA512: 7854bb0a0ece823a0d81a9daf0cc434c36f546917f7e89a4cf50991ad1efdc46018a2ffbbff0e4bb4355875a05109d698816ca9c3287288319b4a65f8ae1dead
+SHA256: 6ad9816156e208fc8dac725c8139ea38bd76ec91a0a13b22e7699f26e1a333fc
+SHA1: 4f9e780d2a2d57119a12f6a918098a7d2e5466d6
+MD5sum: 89a96e4c5fbdb7ede68d662da73f2643
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, whitesur variant, color icon pack, ultrawide resolution
+
+Package: grub-theme-blissos-whitesur-color-ultrawide2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13481
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-color-ultrawide2k_1.1.0-1_amd64.deb
+Size: 3152556
+SHA512: fc18801439e5520d4a80fc647c9a3beda3fd93dff45779b1d2ddca5ff3fa026be2323d9a22f7b744fb273289d660684e19d90f2fdde6c2063fdd078ff85647f4
+SHA256: cba0deabe339a9151f94a37374e3ba24754184322dd94e13bd37b2c0f20587a8
+SHA1: 390816cedf742a7138fddfa2e402846a2776ce10
+MD5sum: 74359740a5d9b7e0812880b64e021a3f
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, whitesur variant, color icon pack, ultrawide2k resolution
+
+Package: grub-theme-blissos-whitesur-white-1080p
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13588
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-white-1080p_1.1.0-1_amd64.deb
+Size: 3286112
+SHA512: 89e82b48ec0dc0048c85403190e2bc6d9fafbf5225e1761f32d96cffe2cf5b03eca1fcb9c3e5709fea06dc744c191e20cbb6e5ad3a810015c53b3120d2abcb04
+SHA256: f30975ca19bd8c47e258bba75f03c760fc54ed741e5d345f6b09c04b1c56e0d5
+SHA1: 5b396687b705b217da4996977d67b1795d9290f2
+MD5sum: 34e85f74c65157d7b718100cb7c7f4fa
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, whitesur variant, white icon pack, 1080p resolution
+
+Package: grub-theme-blissos-whitesur-white-2k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13777
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-white-2k_1.1.0-1_amd64.deb
+Size: 3437352
+SHA512: 05fa93b609c4345c08a19f443eba72d1c05fb3f88d63fc77f79e3c17badb37d13fef3e12cd52a783cf2fc862d3b63a53bbcef64f5497614b9c0edc7c37d9a52d
+SHA256: 361cbf48f6509b9e6f70061bc6e7a67a20cb13c86d9eaa54a7c69eb733a5c609
+SHA1: 8bb86f9c15a5acf1b1a63764de3d258e5efbc843
+MD5sum: a2c66f06c4cad9652701dd3ed70be226
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, whitesur variant, white icon pack, 2k resolution
+
+Package: grub-theme-blissos-whitesur-white-4k
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 14120
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-white-4k_1.1.0-1_amd64.deb
+Size: 3703884
+SHA512: e93bc6672f546fcd546e5960b642a1a866bd6c4ae0c24ad6a97bd3b9c9765a1a5727eb679ceca9e79b16c81f19fd2be8083137576e7955ec2f12508228b1ff0b
+SHA256: 7a9c56c2ba5da1cb166d638f1a66f0acbb8f671dd486074db33d924f31473304
+SHA1: 33b1e4b4075d2c345de782a10160f8e529cbf8d8
+MD5sum: 7d31368885e4e52390a53d39463f66c5
+Description: <insert up to 60 chars description>
+ GNU GRUB theme for BlissOS, whitesur variant, white icon pack, 4k resolution
+
+Package: grub-theme-blissos-whitesur-white-ultrawide
+Source: grub-theme-blissos
+Version: 1.1.0-1
+Architecture: amd64
+Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
+Installed-Size: 13435
+Multi-Arch: foreign
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-white-ultrawide_1.1.0-1_amd64.deb
-Size: 3129724
-SHA512: 30a3a00f475f71df8ecbba40bf56b273c2777f6ef1571c3bb7fcfd10b6f7411f270839b4724319e1d1301c06949b5844210c0f96d68bc388fc90818ee22ea29e
-SHA256: 45ff0928a0631b64541450762e4a8ce0ae8d11571fc593bd1e6a3b40d82ecec0
-SHA1: bc4c15ae0f4b29ca1db18160ac325ad937418d3a
-MD5sum: 10144b4b79c64d293e46565938e488f7
+Size: 3132716
+SHA512: 16b537500bfff0b85a1676044802b90fc8187bf28ceacdc78e2467b733117fa43f3dd3103f57709d59e13e9ac3d856e79df5d0dc05774df60e25b4c88ea02eb6
+SHA256: 9467e3e5b538f5095cc94b67b1a518bf83be69d7af1335a89461e346dceb6d14
+SHA1: 161480d15b653eb00610e504358a6691b3ee22c6
+MD5sum: 87e6a7f55158dcfb96e74900b1a36ff4
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, whitesur variant, white icon pack, ultrawide resolution
 
@@ -1094,17 +1094,17 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13640
+Installed-Size: 13550
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-white-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3210380
-SHA512: 4925360c8216751f71d9323f58b8a266303ae38eb60975a4bdb08fa13b94ed4bd9564de03b316c66a9c66543b6d4cec65b5f2ee2f93e5396697b096df33844d6
-SHA256: e08e69b3edb37ca7ed6146e91d86c0fa6f4cf4631104d4db7dbd2c130d294950
-SHA1: 095f366719c51734211417a03f55f07b64647ce7
-MD5sum: b14fa9ed8f526623b59c2f9883aa3f6a
+Size: 3216352
+SHA512: e3e78e34ff916bae79650d0c9b3ea51210f8c1841cea4bc6a93a563a995d5f40302c46b64d1d5439063dd758a6bc521cd3e6f531fedc8bfd63dc14a54844f01a
+SHA256: b60332225608094161f5e4b87fe9103a7794e3818a79f0e23ebd80bc9ac410a1
+SHA1: c34012c2ddf08bb4b74a16e1b275f0abaa47af72
+MD5sum: fd6ea5cfd65aa1ed2d13c7924c9e028c
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, whitesur variant, white icon pack, ultrawide2k resolution
 
@@ -1113,17 +1113,17 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13680
+Installed-Size: 13590
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-whitesur-1080p_1.1.0-1_amd64.deb
-Size: 3277424
-SHA512: f13957830212faa8d5814865dd7a1727a6280fb79c19cacd55f636f0adf9ea4ad1697fa1283cd173bfa4d691efcd4e83ea659a4aa89a0c90f41ae933ac8cfc92
-SHA256: c57d3c02c5d877066cad3e851d8fd1e58f4416fdf298a9ef0f0be717ce5afb98
-SHA1: 35119a0080548d7b75466ce12ea2ccfb86fc0aaf
-MD5sum: e7f8ed07f137e93f967b2c65b9d8a358
+Size: 3278964
+SHA512: 2db33fece56c4a7a8693fb241ecb54b46971359a44a94b818f79427cabdcecf1bb312c93888c33d5208178bccba67867ef648430ad83160b458d4813ef496520
+SHA256: 7c65cbfdf6ff0e793c51088b4a4c224f04b4d2e32a7271cb5d7975946e200c9a
+SHA1: 28609a6f990587cf1027f9cdc274b1e2367b67a4
+MD5sum: 985ea32b2873c9ea5db8556088b53cb9
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, whitesur variant, whitesur icon pack, 1080p resolution
 
@@ -1132,17 +1132,17 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13851
+Installed-Size: 13761
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-whitesur-2k_1.1.0-1_amd64.deb
-Size: 3428196
-SHA512: 5e73f2f5787235600ec3ff4891bebf7ce4a2746a41bea27623fea264320321d5cee49c499322db37bc1820c5ec59be6951bcd55c4dfce9f3c491bf1666e119fc
-SHA256: 62398cc61eab50a0f99c54e6102d80f9a3277613b50b0db56925b3d6d70fda5b
-SHA1: 2f925b5a7a34843b4bc94b898211dfe0fd21a188
-MD5sum: 5140434c45b2ffdf41ce688b53123fc1
+Size: 3423692
+SHA512: d03d560299739daf117239fe62dd6099dd2e9ef6fbfff64d08ab78bcc905edece49e454567976fbbd7c389549d4868cc4a4ebdae6b22df79047cb9083feb6fd6
+SHA256: c5ed7e9e8daf6ac9ef1044209340fa7ec9304e6542933d51e9d74b945d9567d7
+SHA1: c966df90d770afbb00151a86c1c1ef9b367e4e97
+MD5sum: b87a1937db2a5b2052ab9066c538cec8
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, whitesur variant, whitesur icon pack, 2k resolution
 
@@ -1151,17 +1151,17 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 14199
+Installed-Size: 14109
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-whitesur-4k_1.1.0-1_amd64.deb
-Size: 3686984
-SHA512: cd59c2d731d36fba3c4e3d9170e4828ebb2f255e53373e11b50b45574e3eaaed978c08fd75c54a7b20f5cba751e16c40a399067d994a77e9b5e97004a869c3e0
-SHA256: 5b93134b88c5aeae67326d62dbbe561323a703d6e3abf96a99af497ba1848ba7
-SHA1: 54324413f0b62eeeb9af9d1f9b0b0c8be865feeb
-MD5sum: 9ea24688e9e0b9d7e5412afee5ec4102
+Size: 3687876
+SHA512: d3b045d724f103479fe00c33270e19273e5b799981aac367fc7a277fa9db86ab08c03865fb4837e19adceda48b5ed531b97d1f6e128f60101be043349936faed
+SHA256: e50f309a57ec0b54f37a6c85ad91cb3605773b2833daa0f195b8d58114d81d2c
+SHA1: 83c246e33e040c1d503d986e62f0126093de8113
+MD5sum: 75f7d504d31e5bb3cec38f8e5934b485
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, whitesur variant, whitesur icon pack, 4k resolution
 
@@ -1170,17 +1170,17 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13527
+Installed-Size: 13437
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-whitesur-ultrawide_1.1.0-1_amd64.deb
-Size: 3119540
-SHA512: 5fc73b709cc80d54a0fd8e92b0c713c0286aedefd33682eeb62c4d5838ba69004f746e876a579a6c0a61578c9f016b10f2b16c2a6750d9c722feeedfca259fa5
-SHA256: ae2f9fc6c4bf69f2730e64e7df5e32be2b405b45510459b4593935338838623a
-SHA1: d14be0775396a6236f6ef7dcea14cc9c606fb491
-MD5sum: ad5c05f24033029e59bcda7d60ef4eb2
+Size: 3120112
+SHA512: 7081769d9ad8b9c1dad5ce1af8de3e6c761827c464fdb35e15ea37873491913fc7a265fe32451250b585976590b057a9a1982b6a34957c9953087373feda7ee8
+SHA256: 834c98afa0f6a0bd9df8e589602814a10ee15a604d7da3c62f396c0f09132ab1
+SHA1: 79628b80901d4b1af774e15348102d3d77adee11
+MD5sum: cc7d79e701051ff57b1f6d9d473e6ebc
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, whitesur variant, whitesur icon pack, ultrawide resolution
 
@@ -1189,17 +1189,17 @@ Source: grub-theme-blissos
 Version: 1.1.0-1
 Architecture: amd64
 Maintainer: Bùi Gia Viện (BlissLabs) <shadichy@blisslabs.org>
-Installed-Size: 13624
+Installed-Size: 13534
 Multi-Arch: foreign
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/g/grub-theme-blissos/grub-theme-blissos-whitesur-whitesur-ultrawide2k_1.1.0-1_amd64.deb
-Size: 3198864
-SHA512: ede624fe2cddbadc6d682088c624b52eb513b4034757572a515aa6cc37582a0231986e6b4c83e35b887d278a348b14015fd8c9fadddc019b4072b682d89ab75f
-SHA256: 2e0659ca170299423c00030c87efb2b95381e13b12e41bc5226f64d4eb1a6722
-SHA1: 7fbebf4b56e8b34e6a87f452ff59bb6480e87750
-MD5sum: cad3665585dcd1f7421d86c2d9666274
+Size: 3201000
+SHA512: 37f26b2c7aba153ac86e442c8bec29287aa16f16cb2a7bd3430365c9b570bcbb298844b032f46af191dde3ec8f95f98fafb29baf8429e100128bfd38ff24eef7
+SHA256: 54eaf9318f0ae094c0374cb95f5f11f8a3897380c796b76cd77f2c4e8d76dbd7
+SHA1: 6d9fc43351c5eef8c941eb1137b02d432e0632dd
+MD5sum: 4269bde7b32b6ebd0b7402b552bf42d0
 Description: <insert up to 60 chars description>
  GNU GRUB theme for BlissOS, whitesur variant, whitesur icon pack, ultrawide2k resolution
 

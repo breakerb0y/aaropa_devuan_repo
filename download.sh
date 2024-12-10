@@ -59,6 +59,8 @@ done
 mkdir -p tmp
 mv *.{deb,buildinfo,changes} tmp
 
+rm -rf db dists pool
+
 for changes in tmp/*.changes; do
   reprepro include $RELEASE "$changes"
 done
