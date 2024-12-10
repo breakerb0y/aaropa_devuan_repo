@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: blisslabs.org
+Label: BlissOS debian repo
+Codename: unstable
+Date: Tue, 10 Dec 2024 18:30:18 UTC
+Architectures: amd64
+Components: main
+Description: BlissOS Debian buildiso repo
+MD5Sum:
+ 6a72aac0597355ce767e173e86564702 54614 main/binary-amd64/Packages
+ 7611d48b49079a6c433b484b176b4241 13075 main/binary-amd64/Packages.gz
+ bca168162489444c6cef9b0fadccfa2a 127 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 36cc0b8ccea6856435a55ab5e5d5eba9 128 main/source/Release
+SHA1:
+ bb0805156e59b5e8e38f8c8cf62af6b7c6935148 54614 main/binary-amd64/Packages
+ d85fe62dbb0526c555ba3596ae99ba8204129596 13075 main/binary-amd64/Packages.gz
+ 63c78716b2c4a4e956e7f98334c1778395d9b20a 127 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ a44905bf8dc172cfad9464bc87994ba65ab53103 128 main/source/Release
+SHA256:
+ a24e559b860473c1590e812211b5e8d2bf68f53e7de03877d5fbe6a2a7d6b743 54614 main/binary-amd64/Packages
+ e232a13acefc969b2803929ce8929aae4a966b3aba47e7493160022ebfcfc104 13075 main/binary-amd64/Packages.gz
+ feeec4adac5f048cf4984d344cf1a062e201f46653c74722b0062a0c2bec234b 127 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 7c0defaae40f73f0ffc6f5163f08093930d8ec6586eb25c746d34743d91f0e39 128 main/source/Release
+SHA512:
+ f7828d24163f7e82d0faf4df25d7db4d126daeb704e8022e3a7595a0cfa5988454f8304867421b0258c1dfcf6e6415b51e76bc7f3e006625f444ec8d98a3ab43 54614 main/binary-amd64/Packages
+ b69b5fda05ff2245f3c83fab9bf3e3bb5e3f7ddf199e8a94353c9d4f3e9f0440efd84008f7dcc70ccd67f7921031cf820ad171edfa077d2e88e43a688f2d8a31 13075 main/binary-amd64/Packages.gz
+ 29a9425d59865e99554b1e243e56bf9db7cd0c6c57e00325eb5fe0dc5374d8fd32b8f2aa6b1f06037cec4d2a805249ff58f01fa85271d9bc9c17ab2758b89275 127 main/binary-amd64/Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e 0 main/source/Sources
+ 7e8e93f4a89ce7fae011403e14a1d53544c6e6f6b6010d61129dc27937806d2b03802610d7999eab33a4c36b0f9e001d9d76001b8354087634c1aa9c740c536f 20 main/source/Sources.gz
+ 3e56f349e2976574fbe3b3ac4c952e88ebb4bbd98b19ed82e7b99e491013efeb7fd71cc4acf266dd31540f42e76ea7d3b88ac6d04943edf76e85d9bcb72b0d15 128 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEERVKuuakzHoKFUk5FGVp/JJDPRwkFAmdYiLsACgkQGVp/JJDP
+RwkeThAAmEC7JKiC4OHgonRl6AWkjmzB89Sbr7h+L2uryqKaWVUa6cU+WCNVziHS
+TWvkdaVuNZWE5raLtPwJ8CysZDKh9nJWCkEzXBaeCZbEGBjw/Ie/L3uHOD9tbtSN
+XrPkPgAeDs+RJON645lOLqBbN36I6CSwiFDfeqFGHpNU8XeH2VNCTOHyxyobBuIv
+jJdTOOeAJGHX93Y8dQbu0/vxxOUVCr7O2W8eO5KxWWicD2KuGcvS91+x5Wuyl2Qj
+xJIq5GHGL+myJ4mBg2mBPUY+kvw6cqgNDwKaaNJHMrYh1K9H6HLQBb4AOTNKSe1S
+RZ2K7noXhPcfRKTjjtgR1DNONWOrLcrmIdpv0th7pxtkFilq8SMujTq++mLxX4zz
+yHIpuZxXoMFl33l7WOAFs35RjA7NLP44tCHNWCrw9nvvS0lPL5vEfB/C2D/5S/JP
+Xpfq5Lnp6nNoT8X+lndnvggKcmYNq6n7bSDoJ1Cd0RrDcccbDf8DgK7j7TNwD3cm
++W9B9FyLph5SduaCONVhOTgs+vRZjZbjOBQPt8LwHiFO/2UsLYeuDVZzQIcQG04k
+KZaOb7GzEcMu90/IVd0Bnu8ty5rUnWVOIWhp0mBd0KDakQ9h1Klk98uIy0Y+mraz
+s/IqjRx/Uucf+FNh/BkOX2X2DRjGjF8ajhNd+iWiyEXzQk16D6U=
+=d7bo
+-----END PGP SIGNATURE-----

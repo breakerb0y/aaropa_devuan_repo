@@ -1,0 +1,7 @@
+/*.deb
+/*.buildinfo
+/*.changes
+
+/*.aria2
+
+/tmp
