@@ -5,3 +5,8 @@
 /*.aria2
 
 /tmp
+/metadata.yml
+
+/dist/db
+/dist/dists
+/dist/pool

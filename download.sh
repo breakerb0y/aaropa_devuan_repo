@@ -14,53 +14,56 @@ download_with_wget() {
   wget -q "$1"
 }
 
-set_downloader() {
-  if command -v aria2c &>/dev/null; then
-    DOWNLOAD=download_with_aria2
-  else
-    DOWNLOAD=download_with_wget
+# avoid command failure
+exit_check() { [ "$1" = 0 ] || exit "$1"; }
+trap 'exit_check $?' EXIT
+
+ARCH=($(grep Architectures dist/conf/distributions | awk -F : '{print $2}'))
+SIGNKEY=$(grep SignWith dist/conf/distributions | awk '{print $2}')
+[ "$SIGNKEY" = "yes" ] && SIGNKEY=
+
+if command -v aria2c &>/dev/null; then
+  DOWNLOAD=download_with_aria2
+else
+  DOWNLOAD=download_with_wget
+fi
+export DOWNLOAD
+
+while read -r repo; do
+  url=${repo}/download
+
+  # Download metadata
+  if ! $DOWNLOAD "${url}/metadata.yml"; then
+    echo "WARNING: Repository '$repo' does not provide a metadata.yml. Skipping..."
+    continue
   fi
-  export DOWNLOAD
+
+  repo_name=$(grep Name metadata.yml | awk '{print $2}')
+  repo_ver=$(grep Version metadata.yml | awk '{print $2}')
+  repo_variants=($(grep Variants metadata.yml | awk -F : '{print $2}'))
+  rm -f metadata.yml
+
+  for arch in "${ARCH[@]}"; do
+    [ "$arch" = source ] && continue
+
+    base_name=${repo_name}_${repo_ver}_${arch}
+    $DOWNLOAD "${url}/${base_name}.buildinfo"
+    $DOWNLOAD "${url}/${base_name}.changes"
+
+    # Sign the .changes file
+    ./debsign.sh ${SIGNKEY:+-k "$SIGNKEY"} "${base_name}.changes"
+
+    # Download .deb
+    for variant in "${repo_variants[@]}"; do
+      [ "$variant" = "default" ] && pkgvar= || pkgvar=$variant
+      $DOWNLOAD "${url}/${repo_name}${pkgvar:+-${pkgvar}}_${repo_ver}_${arch}.deb"
+    done
+  done
+done <repos.lst
+
+{
+  cd dist
+  for changes in ../*.changes; do
+    reprepro include $RELEASE "$changes"
+  done
 }
-
-init_repo() {
-  local repo
-  while read -r repo; do
-    repo=($repo)
-    export "repo_${repo[0]%:}"="${repo[1]}"
-  done <repos.yml
-}
-
-ARCH=($(grep Architectures conf/distributions | awk -F : '{print $2}'))
-
-init_repo
-set_downloader
-
-signkey=$1
-[ "$signkey" ] || signkey=$(grep SignWith conf/distributions | awk '{print $2}')
-[ "$signkey" = "yes" ] && signkey=
-
-for arch in "${ARCH[@]}"; do
-  [ "$arch" = source ] && continue
-  while read -r pkg; do
-    pkg=($pkg)
-    $DOWNLOAD "$(eval echo "\$repo_${pkg[0]%:}")/download/${pkg[1]}_${pkg[2]}_${arch}.deb"
-  done <packages.conf
-  while read -r info; do
-    info=($info)
-    name=${info[1]}_${info[2]}_${arch}
-    base="$(eval echo "\$repo_${info[0]%:}")/download/${name}"
-    $DOWNLOAD "${base}.buildinfo"
-    $DOWNLOAD "${base}.changes"
-    ./debsign.sh ${signkey:+-k "$signkey"} "${name}.changes"
-  done <buildinfo.conf
-done
-
-mkdir -p tmp
-mv *.{deb,buildinfo,changes} tmp
-
-rm -rf db dists pool
-
-for changes in tmp/*.changes; do
-  reprepro include $RELEASE "$changes"
-done

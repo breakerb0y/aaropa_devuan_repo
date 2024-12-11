@@ -1,5 +1,0 @@
-Component: main
-Origin: blisslabs.org
-Label: BlissOS debian repo
-Architecture: amd64
-Description: BlissOS Debian buildiso repo
