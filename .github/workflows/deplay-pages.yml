@@ -1,6 +1,8 @@
 name: Deploy github pages for repo
 
 on:
+  schedule:
+    - cron: "0 12 15 * *"
   push:
     branches:
       - main
