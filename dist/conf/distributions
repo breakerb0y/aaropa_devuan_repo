@@ -1,7 +1,0 @@
-Origin: blisslabs.org
-Label: BlissOS debian repo
-Codename: unstable
-Architectures: source amd64
-Components: main
-Description: BlissOS Debian buildiso repo
-SignWith: 381CDE5C937EC73AE0406E4F7C414A0EE6ECD05A
