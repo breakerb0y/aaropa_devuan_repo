@@ -43,6 +43,8 @@ jobs:
             https://github.com/BlissOS/grub2-themes/releases/latest/download
             https://github.com/shadichy/android-tools/releases/latest/download
             https://github.com/shadichy/grub-android-x86/releases/latest/download
+            https://github.com/shadichy/refind-files-i386/releases/latest/download
+            https://github.com/shadichy/efifs-debian/releases/latest/download
       
       - name: Extract artifact
         run: unzip -o dist.zip
