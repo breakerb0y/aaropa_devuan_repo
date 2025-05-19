@@ -37,6 +37,8 @@ jobs:
           origin: blisslabs.org
           desc: BlissOS Debian buildiso repo
           gpg_signing_key: "${{ secrets.GPG_SIGNING_KEY }}"
+          max_download_retries: 10
+          download_retry_wait: 30
           from_metadatas: |
             https://github.com/BlissOS/aaropa_busybox/releases/latest/download
             https://github.com/BlissOS/aaropa_calamares/releases/latest/download
