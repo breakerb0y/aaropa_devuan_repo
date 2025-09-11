@@ -1,2 +1,2 @@
 # bliss-build-deb-repo
-BlissOS Debian buildiso repo
+Gpdroid Debian buildiso repo
