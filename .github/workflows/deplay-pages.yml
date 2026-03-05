@@ -41,8 +41,8 @@ jobs:
           download_retry_wait: 30
           from_metadatas: |
             https://github.com/BlissOS/aaropa_busybox/releases/latest/download
-            https://github.com/breakerb0y/aaropa_calamares/releases/latest/download
-            https://github.com/breakerb0y/grub2-themes/releases/latest/download
+            https://github.com/BlissOS/aaropa_calamares/releases/latest/download
+            https://github.com/BlissOS/grub2-themes/releases/latest/download
             https://github.com/shadichy/android-tools/releases/latest/download
             https://github.com/shadichy/grub-android-x86/releases/latest/download
             https://github.com/shadichy/refind-files-i386/releases/latest/download
